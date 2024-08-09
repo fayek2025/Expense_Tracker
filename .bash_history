@@ -1,692 +1,3 @@
-ls
-touch entity.h entity.cpp
-code .
-touch game.cpp game.h
-code game.h
-code game.cpp
-sh build.sh
-./game
-
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-clear
-./game
-clear
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-clear
-./game
-clear
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-ls
-cd game
-ls
-code .
-gimp
-cd
-ls
-cd sdl/
-ls
-cd SDL2_Tutorials/
-ls
-code .
-cd
-mkdir mini_football
-cd mini_football/
-code .
-code shefina.cpp
-g++ shefina.cpp
-./a.out 
-code gcd.cpp
-code pizza.cpp
-build.sh
-sh build.sh
-./game
-code animated_sprite.h
-touch animated_sprite.cpp
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-clear
-sh build.sh
-clear
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-clear
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-./game
-sh build.sh
-code main.cpp
-cd 19_AnimatedSprite/
-sh build.sh
-./bin/prog
-cd stl/
-ks
-ls
-cd
-cd sdl/
-ls
-cd SDL2_Tutorials/
-ls
-code .
-cd 
-ks
-ls
-code mini_football/
-gimp
-cd
-ls
-cd stl/
-ls
-code .
-google-chrome
-ls
-cd
-cd sdl/
-cd
-ls
-cd game/
-ls
-code ,
-code.
-code .
-ls
-cd codeForces/
-ks
-ls
-code .
-code string.c
-gcc string.c 
-./a.out
-gcc string.c 
-
-gcc string.c 
-clear
-gcc string.c 
-./a.out
-gcc string.c 
-./a.out
-code gcd.cpp
-g++ gcd.cpp
-./a.out
-g++ gcd.cpp
-clear
-g++ gcd.cpp
-./a.out
-g++ gcd.cpp
-./a.out
-g++ gcd.cpp
-./a.out
-g++ gcd.cpp
-5 7
-g++ gcd.cpp
-./a.out
-code forrest.cpp
-g++ forrest.cpp
-E HHHeellloWooorrrrlldg++ forrest.cpp
-./a.out
-E HHHeellloWooorrrrlldg++ forrest.cpp
-g++ forrest.cpp
-./a.out
-gcc string.c 
-clear
-g++ forrest.cpp
-./a.out
-g++ forrest.cpp
-./a.out
-g++ forrest.cpp
-./a.out
-g++ forrest.cpp
-./a.out
-g++ forrest.cpp
-./a.out
-clear
-g++ forrest.cpp
-./a.out
-code buy.cpp
-g++ buy.cpp
-./a.out
-g++ buy.cpp
-./a.out
-g++ buy.cpp
-./a.out
-g++ buy.cpp
-./a.out
-g++ buy.cpp
-ls
-cd stl/
-code .
-cd
-ls
-cd mini_football/
-ls
-code .
-tree
-sh build.sh 
-./hame
-sh build.sh 
-./hame
-sh build.sh 
-code TexturedRectangle.cpp
-code TexturedRectangle.h
-sh build.sh 
-clear
-sh build.sh 
-ls
-cd mini_football/
-code .
-cd
-cd sdl/
-ls
-cd SDL2_Tutorials/
-ls
-code .
-cd sdl/
-cd
-cd mini_football/
-code .
-zoom
-cd
-ls
-cd sdl/
-;s
-ls
-cd SDL2_Tutorials/
-code .
-sh build.sh
-google-chrome
-ls
-sudo apt search inkscape
-sudo apt install inkscape
-inkscape
-ls
-gimp
-ls
-cd mini_football/
-ls
-code .
-clear
-sh build.sh
-cd mini_football/
-sh build.sh 
-touch GameEntity.cpp touch GameEntity.h
-sh build.sh 
-./game
-sh build.sh 
-cd 23_FrameCapping/
-cd bin/
-ls
-cd ..
-sh build.sh 
-./bin/prog
-ls
-code .
-ls
-cd mini_football/
-ls
-cd ..
-code .
-ls
-cd sdl/
-ls
-cd SDL2_Tutorials/
-code .
-code .
-sh build.sh
-cd mini_football/
-sh build.sh
-ls
-df -h
-sudo apt install sublime
-sudo apt install sublime-text
-sudo snap install sublime-text
-sudo apt search sublime-text
-sudo apt search sublime
-ls
-cd game/
-cd ..
-cd mini_game/
-code .
-sh build.sh 
-touch tile.cpp tile.h
-code GameEntity.h
-code tile.h
-code GameEntity.h
-code TexturedRectangle.h
-sh build.sh 
-clear
-sh build.sh 
-cd 35_EntityManager/
-sh build.sh 
-cd mini_football/
-ls
-sh build.sh 
-cd ..
-code word.cpp
-g++ word.cpp 
-./a.out
-code kefa.cpp
-g++ kefa.cpp 
-./a.out
-g++ kefa.cpp 
-./a.out
-g++ kefa.cpp 
-./a.out
-g++ kefa.cpp 
-./a.out
-gimp
-ls
-code .
-cd codes
-ls
-code .
-cd
-ls
-cd demo-repository/
-ls
-code .
-cd
-cd stl/
-ls
-code .
-ls
-cd mini_game/
-ls
-cd mini_football/
-ls
-code .
-cd ..
-ls
-cd ..
-ls
-cd sdl/
-ls
-cd SDL2_Tutorials/
-;s
-ls
-code .
-tiled
-ls
-cd
-cd stl
-ls
-cd STL_Codeforces/
-ls
-code .
-code dart.cpp
-g++ dart.cpp
-./a.out
-g++ kefa.cpp
-./a.out
-g++ kefa.cpp
-./a.out
-g++ kefa.cpp
-./a.out
-g++ kefa.cpp
-./a.out
-g++ kefa.cpp
-./a.out
-g++ kefa.cpp
-./a.out
-g++ kefa.cpp
-./a.out
-g++ kefa.cpp
-./a.out
-g++ kefa.cpp
-./a.out
-g++ kefa.cpp
-./a.out
-g++ kefa.cpp
-./a.out
-g++ kefa.cpp
-./a.out
-g++ kefa.cpp
-./a.out
-g++ kefa.cpp
-./a.out
-g++ kefa.cpp
-./a.out
-g++ kefa.cpp
-./a.out
-g++ kefa.cpp
-./a.out
-g++ kefa.cpp
-./a.out
-kefa.cpp
-code kefa.cpp
-code prime.c
-g++ prime.c 
-./a.out
-g++ prime.c 
-./a.out
-g++ prime.c 
-./a.out
-g++ prime.c 
-./a.out
-g++ prime.c 
-./a.out
-g++ prime.c 
-./a.out
-g++ prime.c 
-./a.out
-g++ prime.c 
-./a.out
-g++ prime.c 
-./a.out
-g++ prime.c 
-./a.out
-code prime.c
-code prime.c 
-sudo apt install g++
-code prime.cpp
-grep *.c
-ls *.c
-ls -*.cpp
-ls --help
-ls
-ls *.cpp
-ls *.c
-code prime.c
-code prime.c 
-ls
-cd stl/
-ls
-code .
-cd codes
-cd
-cd code
-cd codes
-;s
-ls
-code .
-cd
-ls
-cd codeForces/
-ls
-code .
-cd
-ls
-cd codes
-code .
-cd
-code .
-ls
-cd codes
-code .
-cd
-cd Web_Dev/
-ls
-code .
-code prime.c
-code ancient_cipher
-code ancient_cipher.c
-ls
-cd stl/
-ls
-cd STL_Codeforces/
-ls
-ls .*c
-cd
-ls
-cd codeForces/
-ls
-code .
-cd 
-ls
-cd codes
-;s
-ls
-cd
-cd stl/
-;s
-ls
-cd STL_Codeforces/
-ls
-code string.c 
-gcc string.c 
-./.out
-
-gcc string.c 
-./a.out
-code prime.c
-g++ prime.c
-./a.out
-
-./a.out
-g++ prime.c
-./a.out
-g++ prime.c
-./a.out
-g++ prime.c
-./a.out
-code loop.cpp
-g++ prime.c
-google-chrome
-ls
-cd stl/
-ls
-cd STL_Codeforces/
-ls
-cd
-cd codeForces/
-ls
-code .
-code prime.c
-g++ prime.c
-./a.out
-google-chrome
-ls
-code date.c
-gcc date.c 
-./a.out
-gcc date.c 
-./a.out
-gcc date.c 
-./a.out
-gcc date.c 
-./a.out
-gcc date.c 
-./a.out
-gcc date.c 
-./a.out
-code date2.c
-gcc date2.c
-./a.out
-gcc date.c
-./a.out
-gcc date.c
-./a.out
-gcc date.c
-./a.out
-gcc date.c
-./a.out
-gcc date.c
-./a.out
-gcc date.c
-./a.out
-gcc date.c
-./a.out
-gcc date.c
-./a.out
-gcc date.c
-./a.out
-gcc date.c
-./a.out
-gcc date.c
-./a.out
-gcc date.c
-./a.out
-gcc date.c
-./a.out
-gcc date.c
-./a.out
-gcc date.c
-./a.out
-gcc date.c
-./a.out
-gcc date.c
-./a.out
-gcc date.c
-./a.out
-gcc date.c
-./a.out
-code doomesday.c
-google-chrome
-ls
-cd stl/
-ls
-cd STL_Codeforces/
-ls
-code .
-g++ resize
-g++ resize.cpp
-./a.out
-g++ resize.cpp
-./a.out
-g++ resize.cpp
-./a.out
-code resize.cpp
-g++ resize.cpp 
-./a.out
-g++ resize.cpp 
-./a.out
-g++ resize.cpp 
 ./a.out
 g++ resize.cpp 
 ./a.out
@@ -1998,3 +1309,692 @@ cd expense_tracker/
 ls
 code .
 sudo mysql
+/bin/python3 /home/fayek/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariablesToFile.py /home/fayek/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/deactivate/bash/envVars.txt
+source virtual/bin/activate
+django-admin startproject Expense .
+django-admin startapp Tracker
+sudo apt-get install mysql-server
+git config --global push.default matching
+git add .
+git commit -am 'Initial Commit'
+git remote add origin https://github.com/fayek2025/Expense_Tracker.git
+git branch -M main
+git push -u origin main
+cd expense_tracker/
+cd ..
+ls
+cd expense_tracker/
+deactivate 
+pip install mysqlclient
+wget https://dev.mysql.com/downloads/installer/
+sudo dpkg -i /PATH/version-specific-package-name.deb
+sudo apt-get install mysql-server
+sudo systemctl status mysql.service
+sudo snap install mysql-workbench-community
+pip install mysqlclient
+/bin/python3 /home/fayek/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariablesToFile.py /home/fayek/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/deactivate/bash/envVars.txt
+python3 manage.py runserver
+ls
+ks
+ls
+cd DSA/
+ls
+code count_sort.cpp
+cd DSA/
+ls
+g++ leetcode561.cpp 
+./a.out
+g++ leetcode561.cpp 
+./a.out
+ls
+cd DSA
+g++ count_sort
+g++ count_sort.cpp
+3
+clear
+./a.out
+g++ count_sort.cpp
+./a.out
+g++ count_sort.cpp
+./a.out
+g++ count_sort.cpp
+./a.out
+code leetcode561.cpp
+g++ leetcode561.cpp 
+./a.out
+g++ leetcode561.cpp 
+./a.out
+g++ leetcode561.cpp 
+./a.out
+g++ leetcode561.cpp 
+./a.out
+ls
+cd DSA
+ls
+g++ count_sort.cpp 
+./a.out
+cd Expense_tracker2/
+code .
+python3 manage.py runserver
+python3 manage.py makemigrations
+python3 manage.py migrate
+python3 manage.py runserver
+python3 manage.py makemigrations
+python3 manage.py migrate
+python3 manage.py runserver
+pip install gunicorn
+pip freeze 
+pip freeze > requirements.txt
+python3 --version > runtime.txt
+pip install gunicorn
+python manage.py collectstatic
+python3 manage.py collectstatic
+python3 manage.py runserver
+rm requirements.txt 
+pip freeze > requirements.txt
+python3 manage.py runserver
+pip install dj_database_url
+/bin/python3 /home/fayek/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariablesToFile.py /home/fayek/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/deactivate/bash/envVars.txt
+ls
+cd codes
+code .
+node
+code a.cpp
+cp a.cpp b.cpp
+code b.cpp 
+touch server.js
+code server.js
+node server
+ls
+mkdir nodejs
+cd nodejs/
+ls
+cd ..
+cd nodejs2
+mkdir nodejs2
+cd nodejs2
+code .
+cd ..
+cd nodejs
+code .
+ls
+npm init
+npm init -y
+npm install express
+npm i -D nodemon
+npm run start:dev
+ls
+mkdir express
+cd express/
+code .
+nodemon --version
+nodemon
+npm nodemon
+npm nodemon --version
+ls
+mkdir express
+cd express/
+code .
+git remote add origin https://github.com/fayek2025/express.git
+git branch -M main
+git push -u origin main
+cd express/
+code .
+npm run start:dev
+sudo snap install whatsapp-for-linux
+whatsapp-for-linux 
+google-chrome
+ls
+cd codes/
+code .
+google-chrome1
+google-chrome
+3
+6 4 8
+2
+1 1 2 1
+3
+code permutation.cpp
+g++ permutation.cpp 
+./a.out
+g++ permutation.cpp 
+./a.out
+g++ permutation.cpp 
+./a.out
+g++ permutation.cpp 
+./a.out
+g++ permutation.cpp 
+./a.out
+code lexi.cpp
+code maximise.cpp
+ls
+cd express-2
+code .
+code thrones.cpp
+code calender.cpp
+g++ calender.cpp 
+./a.out
+g++ calender.cpp 
+./a.out
+code remainder.cpp
+5 1
+1 1 1 1 1
+LLLLL
+6 8
+1 2 3 4 5 6
+RLLLRR
+1 10000
+10000
+R /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-0d4j4m3d.utd 
+google-chrome
+ls
+cd codes
+code .
+npm run start:dev
+npm init -y
+npm run start:dev
+sudo apt install nodejs
+npm install nodemon
+npm run start:dev
+ls
+cd codes
+code .
+google-chrome
+google-chrome
+11
+5
+00111
+00010
+00000
+10
+0000000000
+1111111110
+0111111100
+0011111000
+0001110000
+0000100000
+3
+111
+011
+4
+0000
+0100
+1110
+2
+11
+5
+00111
+00010
+00000
+10
+0000000000
+1111111110
+0111111100
+0011111000
+0001110000
+0000100000
+3
+111
+011
+4
+0000
+0100
+1110
+2
+11
+5
+00111
+00010
+00000
+10
+0000000000
+1111111110
+0111111100
+0011111000
+0001110000
+0000100000
+3
+111
+code vlad.cpp
+code triangle.cpp
+ls
+cd codes/
+ls
+code .
+ls
+cd Desktop/
+ls
+cd express2/
+code .
+google-chrome
+code vlad.cpp
+code sum_vlad.cpp
+discord
+3
+3 5 7
+1 7 9
+4
+10 19 27 35
+2
+1 2
+3 4 /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-ynjzk4ri.kbb 
+3
+3 5 7
+1 7 9
+4
+10 19 27 35
+2
+1 2
+3 4 /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-akemfni3.vng 
+4
+10 19 27 35
+2
+1 2
+3 4 /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-1wr4vmlj.sc2 
+2
+1 2
+3 4 /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-fvvjq5tp.qsl 
+2 7 0 1 2 2 3 4 /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-lukuxaho.gpe 
+code ncpc1.cpp
+code game.cpp
+cd
+code pern
+mkdir pern
+cd pern/
+code .
+psql -U postgres
+sudo apt update
+sudo apt install postgresql postgresql-contrib
+sudo -i -u postgres
+psql -U postgres
+sudo -i -u postgres
+ls
+mkdir mern
+cd mern/
+code .
+cd
+cd ex
+cd express-2/
+code .
+sudo apt install postgresql
+sudo -u postgres psql
+cd
+sudo -u postgres psql
+sudo adduser fayek21
+sudo -u fayek21 psql -d pg
+sudo -u fayek21 psql -d fish
+create fish.db
+sudo -u postgres psql
+sudo -u fayek21 psql -d datas
+sudo -u postgres psql
+sudo -u fayek21 psql 
+sudo -u fayek21 psql -d datas
+sudo -u postgres psql
+npm init -y
+npm i express pg cors
+npm init
+npm init -y
+mkdir src
+cd src
+code server.js
+npm i nodemon
+npm run server
+cd ..
+npm run server
+cd server/
+npm run server
+cd ..
+npx create-react-app client
+n lts
+n latest
+nvm install 14
+sudo snap install nvm
+sudo apt install nvm
+nvm install 14
+create-react-app client
+npx create-react-app client
+ls
+cd
+sudo -u postgres psql
+sudo -u fayek21 psql -d todos
+sudo -u postgres psql
+psql -c "ALTER USER postgres WITH PASSWORD 'password123';"
+cat /path/to/pg_hba.conf
+nano /path/to/pg_hba.conf
+cat /etc/postgresql/<version>/main/pg_hba.conf
+sudo find / -name pg_hba.conf
+cat /etc/postgresql/14/main/pg_hba.conf
+sudo chmod o+r /etc/postgresql/14/main/pg_hba.conf
+cat /etc/postgresql/14/main/pg_hba.conf
+nano /etc/postgresql/14/main/pg_hba.conf
+sudo chmod rwx+ /etc/postgresql/14/main/pg_hba.conf
+nano /etc/postgresql/14/main/pg_hba.conf
+sudo chmod u+w /etc/postgresql/14/main/pg_hba.conf
+nano /etc/postgresql/14/main/pg_hba.conf
+sudo -u postgres 
+sudo -u postgres psql
+google-chrome
+sudo apt install curl
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+bash install.sh
+wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+bash install.sh
+ls
+sudo search install.sh
+export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
+command -v nvm
+nvm install 14.7.0 
+ls
+cd pern/
+node --version
+code .
+google-chrome
+sudo apt-get install telegram
+sudo apt install telegram-desktop
+telegram-desktop 
+ls
+google-chrome
+mkdir server
+ls
+cd server
+code chips.cpp
+run start server
+cd server/
+cd ..
+npm run server
+cd server/
+npm run server 
+ls
+cd codes/
+code .
+cd ..
+code arr.cpp
+sudo -u psql postgres
+google-chrome
+sudo -u postgres psql
+telegram-desktop 
+code ya.cpp
+sudo snap install intellij-idea-community --classic
+java --version
+sudo apt install openjdk-19-jre-headless
+ls
+mkdir python
+cd python/
+ls
+code rsa.py
+cd
+cd Downloads/
+cat enc_flag | base64 -d | cut -d "'" -f2 | base64 -d | caesar
+sudo apt install bsdgames
+cat enc_flag | base64 -d | cut -d "'" -f2 | base64 -d | caesar
+python3 rsa.py 
+ls
+cd python/
+ls
+python3 rsa.py 
+code fileDecryption.py
+theHarvesters
+sudo apt install theHarvester
+cd Downloads/
+ls
+cd file\\
+ls
+cd ..
+cd theHarvester.py -h
+cat 1.txt 
+xxd 1.txt
+strings 1.txt
+binwalk 1.txt 
+foremost 1.txt
+sudo apt install foremost
+foremost 1.txt
+binwalk 1.txt
+xxd 1.txt
+recon-ng
+sudo apt install recon=ng
+sudo apt install recon-ng
+recon-ng
+git clone https://github.com/laramies/theHarvester
+cd theHarvester/
+sudo apt install python3-pip
+python3.7 -m pip install -r requirements/dev.txt
+pip install -r requirements/dev.txt
+discord 
+google-chrome
+cd Downloads/
+cd rsa/
+cd theHarvester/
+theHarvester.py -h
+python3 theHarvester.py -h
+python3 theHarvester.py 
+cd ..
+ls
+get-content 1.txt 
+xxd 1.txt
+binwalk 1.txt
+google-chrome
+git clone https://github.com/sherlock-project/sherlock.git
+google-chrome
+chmod +x burpsuite_community_linux_v2024_3_1_3.sh 
+./burpsuite_community_linux_v2024_3_1_3.sh 
+burpsuite
+google-chrome
+firefox
+cd src/
+cd main/
+ls
+cd java/
+ls
+javac Launcher.java 
+sudo apt install openjdk-11-jdk-headless 
+javac Launcher.java 
+udo apt install libfuse2
+sudo apt install libfuse2
+cd Downloads/
+ls
+cd ChatApp_link/
+ls
+cd ChatApp_CodeMaster/
+ls
+code .
+cd
+sudo tar -xzf jetbrains-toolbox-2.3.1.31116.tar.gz -C /opt
+ls
+code .
+google-chrome
+npm run devc
+npm run dev
+npm i cors
+code server.js 
+npm i cors
+npm run dev
+npm i uuid
+npm i date-fns
+npm run dev
+rm -rf node_modules
+npm install
+rm -rf node_modules
+npm i uuid
+npm run dev
+npm i cors -G
+npm i date-fns -G
+npm i uuid -G
+npm run dev
+npm initn
+npm init
+npm i express 
+npm i nodemon -D
+npm i express 
+npm i express.js 
+npm run dev
+node server
+node -v
+sudo npm cache clean -f
+sudo npm install -g n
+sudo n stable
+npm i uuid
+npm i date-fns
+npm i cors
+npm i express
+npm run dev
+rm -rf node_modules package-lock.json
+npm install
+npm run dev
+# Navigate to your project directory
+cd /media/fayek/New\ Volume/nodejs
+# Check Node.js version
+node -v
+# Upgrade Node.js if necessary
+sudo npm cache clean -f
+sudo npm install -g n
+sudo n stable
+# Remove node_modules and package-lock.json
+rm -rf node_modules package-lock.json
+# Reinstall dependencies
+npm install
+# Install a specific version of uuid if necessary
+npm install uuid@8.3.2
+cd express/
+npm run dev
+code .
+mkdir config
+npm run dev
+ls
+sudo apt-get install ntfs-3g
+ntfsfix /dev/sda5
+chkdsk
+sudo mount /dev/sda5 /mnt
+lsblk
+ntfsfix /dev/sda5
+whatsapp
+npm i bcrypt cookie-parser cors date-fns dotenv jsonwebtoken uuid
+npm run dev
+npm i nodemon -D
+npm run dev
+npm i express
+npm run dev
+node -v
+npm i express.js
+npm run dev
+node server
+npm run dev
+npm i bcrypt cookie-parser cors dotenv express jsonwebtoken uuid
+npm uninstall express
+npm i bcrypt cookie-parser cors dotenv express jsonwebtoken uuid
+npm i bcrypt cookie-parser cors dotenv jsonwebtoken uuid
+npm i express
+npm i nodemon -D
+npm run dev
+ndoe
+node
+sudo lsof -i :3500
+sudo kill -9 32796
+npm run dev
+npm i cookie-parser
+npm run dev
+npm install mongodb
+mongodb+srv://fayekahmedrahat90:123456bANGLADESH@cluster0.xigaafc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+npm i mongoose
+npm run dev
+npm uninstall mongoose
+npm install mongoose@5.10.18
+npm run dev
+npm install mongodb
+npm run dev
+node -v
+# Install nvm if you haven't already
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+source ~/.nvm/nvm.sh
+# Install a newer version of Node.js (e.g., the latest LTS version)
+nvm install 16
+# Use the newly installed version
+nvm use 16
+# Verify the installation
+node -v
+nano /home/fayek/NodeJS/node_modules/bson/lib/bson.cjs
+npm uninstall bson
+npm install bson
+npm uninstall bson
+npm install bson@4.0.4
+npm run dev
+cd /var/log/mongodb/mongod.log
+/var/log/mongodb/mongod.log
+sudo systemctl restart mongod
+google-chrome
+npm run devb
+npm run dev
+git config pull.rebase true
+npm run dev
+google-chrome
+npm init
+npm i connect-mongo dotenv ejs express express-ejs-layouts express-session method-override mongoose passport passport-google-oauth20
+npm i nodemon -D
+tree
+clear
+npm run dev
+mkdir Note_Application
+cd Note_Application/
+code .
+clear
+npm run dev
+tree
+ls
+cd NodeJS/
+code .
+npm run dev
+code .
+code .
+code .
+google-chrome
+npm run dev
+google-chrome
+code .
+code .
+npm i mongoose@5.10.18
+npm run dev
+google-chrome
+node
+npm i jsonwebtoken
+npm i bycrypy
+npm i bycrypt
+npm i cookie-parser
+npm run dev
+npm i bycrypt
+npm i bcrypt
+npm run dev
+code .
+cd ..
+ls
+cd Note-Application/
+code .
+google-chrome
+sudo nano /etc/hosts
+google-chrome
+sudo nano /etc/hosts
+npm -v
+npx create-react-app first-react-project
+cd first-react-project/
+npx start
+npm start
+cd..
+ls
+cd first-react-project/
+code .
+code .
+npx create-react-app blogs
+cd first-react-project/
+code .
+npx create-react-app blog
+cd blog
+code .
+npm start
+cd first-react-project/
+code .
+npm start
+npm run start
+npm start
+cd first-react-project/
+code .
+clear
+npm start
