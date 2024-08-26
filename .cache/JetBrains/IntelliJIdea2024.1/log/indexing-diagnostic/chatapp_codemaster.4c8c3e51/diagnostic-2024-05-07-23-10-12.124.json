@@ -1,0 +1,65 @@
+{
+  "appInfo" : {
+    "build" : "241.15989.150",
+    "buildDate" : "2024-04-29T11:42:00Z[UTC]",
+    "productCode" : "IU",
+    "generated" : "2024-05-07T17:10:12.124873482Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1207.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "ChatApp_CodeMaster",
+    "times" : {
+      "scanningReason" : "changes in: \"Library Maven: com.jfoenix:jfoenix:9.0.1 (#2 class roots, #0 source roots)\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 5,
+      "creatingIteratorsTime" : 2685,
+      "concurrentHandlingWallTimeWithoutPauses" : 66249837,
+      "concurrentHandlingWallTimeWithPauses" : 66249837,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 65895327,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 1237186,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 64548354,
+      "delayedPushPropertiesStageTime" : 5140,
+      "indexExtensionsTime" : 619968,
+      "dumbModeStart" : "2024-05-07T17:10:12.057005741Z",
+      "dumbWallTimeWithPauses" : 66866521,
+      "dumbWallTimeWithoutPauses" : 66866521,
+      "updatingStart" : "2024-05-07T17:10:12.056506308Z",
+      "updatingEnd" : "2024-05-07T17:10:12.123872262Z",
+      "totalWallTimeWithPauses" : 67367998,
+      "wallTimeOnPause" : 2625,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 67365373
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 367,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 26
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Library Maven: com.jfoenix:jfoenix:9.0.1 (#2 class roots, #0 source roots)",
+      "numberOfScannedFiles" : 367,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 26,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 45038699,
+      "totalOneThreadTimeWithPauses" : 65895327,
+      "iterationAndScannersApplicationTime" : 1237186,
+      "filesCheckTime" : 64548354,
+      "timeProcessingUpToDateFiles" : 7998339,
+      "timeUpdatingContentLessIndexes" : 472932,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 619968,
+      "roots" : [ ]
+    } ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "appInfo" : {
+    "build" : "241.15989.150",
+    "buildDate" : "2024-04-29T11:42:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2024-05-07T17:16:05.688213662Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1207.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "ChatApp_CodeMaster",
+    "times" : {
+      "scanningIds" : [ 3 ],
+      "contentLoadingVisibleTime" : 508116,
+      "retrievingChangedDuringIndexingFilesTime" : 18325,
+      "separateApplyingIndexesVisibleTime" : 87794,
+      "updatingStart" : "2024-05-07T17:16:05.644189357Z",
+      "updatingEnd" : "2024-05-07T17:16:05.68764181Z",
+      "totalWallTimeWithPauses" : 43454427,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "dumbModeStart" : "2024-05-07T17:16:05.644189357Z",
+      "dumbWallTimeWithPauses" : 43454427,
+      "dumbWallTimeWithoutPauses" : 43454427,
+      "totalWallTimeWithoutPauses" : 43454427
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 9,
+      "numberOfNothingToWriteFiles" : 9
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "JAVA",
+      "partOfTotalProcessingTime" : {
+        "part" : 5124169,
+        "total" : 5124169
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1778066,
+        "total" : 1778066
+      },
+      "totalNumberOfFiles" : 9,
+      "totalFilesSize" : 21494,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 21494,
+        "totalCpuTime" : 5124169
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'EChat' (all roots)",
+        "numberOfFiles" : 9,
+        "totalFilesSize" : 21494,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 5124169,
+          "total" : 5124169
+        }
+      } ]
+    } ],
+    "totalStatsPerBaseLanguage" : [ {
+      "language" : "JAVA",
+      "partOfTotalProcessingTime" : {
+        "part" : 5124169,
+        "total" : 5124169
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 3556132,
+        "total" : 1778066
+      },
+      "totalNumberOfFiles" : 9,
+      "totalFilesSize" : 21494,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 21494,
+        "totalCpuTime" : 5124169
+      }
+    } ],
+    "totalStatsPerIndexer" : [ ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 0,
+      "retrievingTime" : 18325
+    },
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'EChat' (all roots)",
+      "totalNumberOfIndexedFiles" : 9,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 9,
+      "totalIndexingVisibleTime" : 1464331,
+      "contentLoadingVisibleTime" : 508116,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 87794
+    }, {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 0,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 0
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0
+  }
+}

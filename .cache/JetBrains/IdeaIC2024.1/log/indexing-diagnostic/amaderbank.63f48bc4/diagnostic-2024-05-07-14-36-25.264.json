@@ -1,0 +1,95 @@
+{
+  "appInfo" : {
+    "build" : "241.15989.150",
+    "buildDate" : "2024-04-29T11:42:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2024-05-07T08:36:25.265127965Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1207.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "AmaderBank",
+    "times" : {
+      "scanningReason" : "changes in: \"Library Maven: com.github.almasb:fxgl:17.3 (#1 class roots, #0 source roots)\", \"Library Maven: de.jensd:fontawesomefx:8.9 (#1 class roots, #0 source roots)\", \"Library Maven: org.postgresql:postgresql:42.7.3 (#1 class roots, #0 source roots)\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 8,
+      "creatingIteratorsTime" : 1362,
+      "concurrentHandlingWallTimeWithoutPauses" : 132881934,
+      "concurrentHandlingWallTimeWithPauses" : 132881934,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 277996204,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 102980303,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 174720587,
+      "delayedPushPropertiesStageTime" : 7164,
+      "indexExtensionsTime" : 21973563,
+      "dumbModeStart" : "2024-05-07T08:36:25.130822211Z",
+      "dumbWallTimeWithPauses" : 133414473,
+      "dumbWallTimeWithoutPauses" : 133414473,
+      "updatingStart" : "2024-05-07T08:36:25.130646422Z",
+      "updatingEnd" : "2024-05-07T08:36:25.264236684Z",
+      "totalWallTimeWithPauses" : 133589160,
+      "wallTimeOnPause" : -1503,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 133590663
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 3,
+      "numberOfScannedFiles" : 909,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 892
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Library Maven: org.postgresql:postgresql:42.7.3 (#1 class roots, #0 source roots)",
+      "numberOfScannedFiles" : 491,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 491,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 61535319,
+      "totalOneThreadTimeWithPauses" : 122249731,
+      "iterationAndScannersApplicationTime" : 45860121,
+      "filesCheckTime" : 76287959,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 26112861,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 11526780,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Library Maven: com.github.almasb:fxgl:17.3 (#1 class roots, #0 source roots)",
+      "numberOfScannedFiles" : 382,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 371,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 63832851,
+      "totalOneThreadTimeWithPauses" : 118173268,
+      "iterationAndScannersApplicationTime" : 40447924,
+      "filesCheckTime" : 77623383,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 23596176,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 9982593,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Library Maven: de.jensd:fontawesomefx:8.9 (#1 class roots, #0 source roots)",
+      "numberOfScannedFiles" : 36,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 30,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 16618406,
+      "totalOneThreadTimeWithPauses" : 37573205,
+      "iterationAndScannersApplicationTime" : 16672258,
+      "filesCheckTime" : 20809245,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 3492614,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 464190,
+      "roots" : [ ]
+    } ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "appInfo" : {
+    "build" : "241.15989.150",
+    "buildDate" : "2024-04-29T11:42:00Z[UTC]",
+    "productCode" : "IU",
+    "generated" : "2024-05-07T17:10:28.693576816Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1207.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "ChatApp_CodeMaster",
+    "times" : {
+      "scanningReason" : "changes in: \"Custom kind roots from entity (extensions, empty)\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 7,
+      "creatingIteratorsTime" : 1473,
+      "concurrentHandlingWallTimeWithoutPauses" : 21582509,
+      "concurrentHandlingWallTimeWithPauses" : 21582509,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 1518939,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 46057,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 1449948,
+      "delayedPushPropertiesStageTime" : 2685,
+      "indexExtensionsTime" : 0,
+      "dumbWallTimeWithPauses" : 0,
+      "dumbWallTimeWithoutPauses" : 0,
+      "updatingStart" : "2024-05-07T17:10:28.669922715Z",
+      "updatingEnd" : "2024-05-07T17:10:28.692411105Z",
+      "totalWallTimeWithPauses" : 22493420,
+      "wallTimeOnPause" : 2325,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 22491095
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 28,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 0
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Custom kind roots from entity (extensions, empty)",
+      "numberOfScannedFiles" : 28,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 1163438,
+      "totalOneThreadTimeWithPauses" : 1518939,
+      "iterationAndScannersApplicationTime" : 46057,
+      "filesCheckTime" : 1449948,
+      "timeProcessingUpToDateFiles" : 218986,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    } ]
+  }
+}

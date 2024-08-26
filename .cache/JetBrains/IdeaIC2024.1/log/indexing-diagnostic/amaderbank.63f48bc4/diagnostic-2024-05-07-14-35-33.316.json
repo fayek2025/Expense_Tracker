@@ -1,0 +1,200 @@
+{
+  "appInfo" : {
+    "build" : "241.15989.150",
+    "buildDate" : "2024-04-29T11:42:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2024-05-07T08:35:33.31671853Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1207.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "AmaderBank",
+    "times" : {
+      "scanningIds" : [ 7 ],
+      "contentLoadingVisibleTime" : 423362,
+      "retrievingChangedDuringIndexingFilesTime" : 18072564,
+      "separateApplyingIndexesVisibleTime" : 434229,
+      "updatingStart" : "2024-05-07T08:35:33.246431641Z",
+      "updatingEnd" : "2024-05-07T08:35:33.31630211Z",
+      "totalWallTimeWithPauses" : 69871430,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "dumbModeStart" : "2024-05-07T08:35:33.246431641Z",
+      "dumbWallTimeWithPauses" : 69871430,
+      "dumbWallTimeWithoutPauses" : 69871430,
+      "totalWallTimeWithoutPauses" : 69871430
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 7,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 14,
+      "numberOfNothingToWriteFiles" : 0
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "JAVA",
+      "partOfTotalProcessingTime" : {
+        "part" : 56026987,
+        "total" : 56026987
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 3938815,
+        "total" : 3938815
+      },
+      "totalNumberOfFiles" : 14,
+      "totalFilesSize" : 4844,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 4844,
+        "totalCpuTime" : 56026987
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'AmaderBank' (all roots)",
+        "numberOfFiles" : 7,
+        "totalFilesSize" : 2422,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 39586622,
+          "total" : 56026987
+        }
+      }, {
+        "providerName" : "Refreshed files",
+        "numberOfFiles" : 7,
+        "totalFilesSize" : 2422,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 16440365,
+          "total" : 56026987
+        }
+      } ]
+    } ],
+    "totalStatsPerBaseLanguage" : [ {
+      "language" : "JAVA",
+      "partOfTotalProcessingTime" : {
+        "part" : 56026987,
+        "total" : 56026987
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 7877630,
+        "total" : 3938815
+      },
+      "totalNumberOfFiles" : 14,
+      "totalFilesSize" : 4844,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 4844,
+        "totalCpuTime" : 56026987
+      }
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 17959291,
+        "total" : 39549332
+      },
+      "totalNumberOfFiles" : 14,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 4844,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 4844,
+        "totalCpuTime" : 17959291
+      }
+    }, {
+      "indexId" : "java.null.method.argument",
+      "partOfTotalIndexingTime" : {
+        "part" : 11392440,
+        "total" : 39549332
+      },
+      "totalNumberOfFiles" : 14,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 4844,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 4844,
+        "totalCpuTime" : 11392440
+      }
+    }, {
+      "indexId" : "java.fun.expression",
+      "partOfTotalIndexingTime" : {
+        "part" : 6122599,
+        "total" : 39549332
+      },
+      "totalNumberOfFiles" : 14,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 4844,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 4844,
+        "totalCpuTime" : 6122599
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 1743249,
+        "total" : 39549332
+      },
+      "totalNumberOfFiles" : 7,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2422,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 2422,
+        "totalCpuTime" : 1743249
+      }
+    }, {
+      "indexId" : "java.binary.plus.expression",
+      "partOfTotalIndexingTime" : {
+        "part" : 1701431,
+        "total" : 39549332
+      },
+      "totalNumberOfFiles" : 14,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 4844,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 4844,
+        "totalCpuTime" : 1701431
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 630322,
+        "total" : 39549332
+      },
+      "totalNumberOfFiles" : 7,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2422,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 2422,
+        "totalCpuTime" : 630322
+      }
+    } ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 7,
+      "retrievingTime" : 18072564
+    },
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'AmaderBank' (all roots)",
+      "totalNumberOfIndexedFiles" : 7,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 11189298,
+      "contentLoadingVisibleTime" : 423362,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 434229
+    }, {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 7,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 0
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0
+  }
+}

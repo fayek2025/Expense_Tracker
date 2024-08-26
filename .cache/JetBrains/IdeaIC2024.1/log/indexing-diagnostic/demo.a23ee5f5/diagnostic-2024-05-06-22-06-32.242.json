@@ -1,0 +1,634 @@
+{
+  "appInfo" : {
+    "build" : "241.15989.150",
+    "buildDate" : "2024-04-29T11:42:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2024-05-06T16:06:32.243038796Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1207.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "demo",
+    "times" : {
+      "scanningIds" : [ 10 ],
+      "contentLoadingVisibleTime" : 20974580,
+      "retrievingChangedDuringIndexingFilesTime" : 19716,
+      "separateApplyingIndexesVisibleTime" : 33570938,
+      "updatingStart" : "2024-05-06T16:06:32.073422694Z",
+      "updatingEnd" : "2024-05-06T16:06:32.242476015Z",
+      "totalWallTimeWithPauses" : 169064873,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "dumbModeStart" : "2024-05-06T16:06:32.073422694Z",
+      "dumbWallTimeWithPauses" : 169064873,
+      "dumbWallTimeWithoutPauses" : 169064873,
+      "totalWallTimeWithoutPauses" : 169064873
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 697,
+      "numberOfNothingToWriteFiles" : 0
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "CLASS",
+      "partOfTotalProcessingTime" : {
+        "part" : 762854421,
+        "total" : 961124858
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 141031311,
+        "total" : 152574032
+      },
+      "totalNumberOfFiles" : 654,
+      "totalFilesSize" : 2413140,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 2413140,
+        "totalCpuTime" : 762854421
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.controlsfx:controlsfx:11.1.2 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 651,
+        "totalFilesSize" : 2407066,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 757085783,
+          "total" : 762854421
+        }
+      }, {
+        "providerName" : "Library Maven: org.kordamp.bootstrapfx:bootstrapfx-core:0.4.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : 6074,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 5768638,
+          "total" : 762854421
+        }
+      } ]
+    }, {
+      "fileType" : "Properties",
+      "partOfTotalProcessingTime" : {
+        "part" : 86017390,
+        "total" : 961124858
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1832762,
+        "total" : 152574032
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 129141,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 129141,
+        "totalCpuTime" : 86017390
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.controlsfx:controlsfx:11.1.2 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 129041,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 84148911,
+          "total" : 86017390
+        }
+      }, {
+        "providerName" : "Library Maven: org.kordamp.bootstrapfx:bootstrapfx-core:0.4.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 100,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1868479,
+          "total" : 86017390
+        }
+      } ]
+    }, {
+      "fileType" : "CSS",
+      "partOfTotalProcessingTime" : {
+        "part" : 68482409,
+        "total" : 961124858
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 6989781,
+        "total" : 152574032
+      },
+      "totalNumberOfFiles" : 32,
+      "totalFilesSize" : 111172,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 111172,
+        "totalCpuTime" : 68482409
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.controlsfx:controlsfx:11.1.2 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 31,
+        "totalFilesSize" : 45295,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 47324058,
+          "total" : 68482409
+        }
+      }, {
+        "providerName" : "Library Maven: org.kordamp.bootstrapfx:bootstrapfx-core:0.4.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 65877,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 21158351,
+          "total" : 68482409
+        }
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalProcessingTime" : {
+        "part" : 32574129,
+        "total" : 961124858
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 656275,
+        "total" : 152574032
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 63995,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 63995,
+        "totalCpuTime" : 32574129
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.kordamp.bootstrapfx:bootstrapfx-core:0.4.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 63995,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 32574129,
+          "total" : 32574129
+        }
+      } ]
+    }, {
+      "fileType" : "Manifest",
+      "partOfTotalProcessingTime" : {
+        "part" : 4946502,
+        "total" : 961124858
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 768725,
+        "total" : 152574032
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 6949,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 6949,
+        "totalCpuTime" : 4946502
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.controlsfx:controlsfx:11.1.2 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 6510,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3101929,
+          "total" : 4946502
+        }
+      }, {
+        "providerName" : "Library Maven: org.openjfx:javafx-swing:17.0.6 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 67,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1008644,
+          "total" : 4946502
+        }
+      }, {
+        "providerName" : "Library Maven: org.kordamp.bootstrapfx:bootstrapfx-core:0.4.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 372,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 835929,
+          "total" : 4946502
+        }
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 3068988,
+        "total" : 961124858
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 401820,
+        "total" : 152574032
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 969,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 969,
+        "totalCpuTime" : 3068988
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.kordamp.bootstrapfx:bootstrapfx-core:0.4.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 969,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3068988,
+          "total" : 3068988
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 2450655,
+        "total" : 961124858
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 689057,
+        "total" : 152574032
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 1380,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 1380,
+        "totalCpuTime" : 2450655
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.kordamp.bootstrapfx:bootstrapfx-core:0.4.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 1062,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1665930,
+          "total" : 2450655
+        }
+      }, {
+        "providerName" : "Library Maven: org.controlsfx:controlsfx:11.1.2 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 318,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 784725,
+          "total" : 2450655
+        }
+      } ]
+    }, {
+      "fileType" : "SPI",
+      "partOfTotalProcessingTime" : {
+        "part" : 730364,
+        "total" : 961124858
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 204301,
+        "total" : 152574032
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 36,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 36,
+        "totalCpuTime" : 730364
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.controlsfx:controlsfx:11.1.2 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 36,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 730364,
+          "total" : 730364
+        }
+      } ]
+    } ],
+    "totalStatsPerBaseLanguage" : [ {
+      "language" : "Properties",
+      "partOfTotalProcessingTime" : {
+        "part" : 86017390,
+        "total" : 961124858
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 154406794,
+        "total" : 152574032
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 129141,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 129141,
+        "totalCpuTime" : 86017390
+      }
+    }, {
+      "language" : "textmate",
+      "partOfTotalProcessingTime" : {
+        "part" : 32574129,
+        "total" : 961124858
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 153230307,
+        "total" : 152574032
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 63995,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 63995,
+        "totalCpuTime" : 32574129
+      }
+    }, {
+      "language" : "Manifest",
+      "partOfTotalProcessingTime" : {
+        "part" : 4946502,
+        "total" : 961124858
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 153342757,
+        "total" : 152574032
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 6949,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 6949,
+        "totalCpuTime" : 4946502
+      }
+    }, {
+      "language" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 3068988,
+        "total" : 961124858
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 152975852,
+        "total" : 152574032
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 969,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 969,
+        "totalCpuTime" : 3068988
+      }
+    }, {
+      "language" : "TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 2450655,
+        "total" : 961124858
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 153263089,
+        "total" : 152574032
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 1380,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 1380,
+        "totalCpuTime" : 2450655
+      }
+    }, {
+      "language" : "SPI",
+      "partOfTotalProcessingTime" : {
+        "part" : 730364,
+        "total" : 961124858
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 152778333,
+        "total" : 152574032
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 36,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 36,
+        "totalCpuTime" : 730364
+      }
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 267396016,
+        "total" : 450906193
+      },
+      "totalNumberOfFiles" : 658,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2543250,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 2543250,
+        "totalCpuTime" : 267396016
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 61055648,
+        "total" : 450906193
+      },
+      "totalNumberOfFiles" : 43,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 313642,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 313642,
+        "totalCpuTime" : 61055648
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinPartialPackageNamesIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 44853019,
+        "total" : 450906193
+      },
+      "totalNumberOfFiles" : 654,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2413140,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 2413140,
+        "totalCpuTime" : 44853019
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 17970177,
+        "total" : 450906193
+      },
+      "totalNumberOfFiles" : 654,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2413140,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 2413140,
+        "totalCpuTime" : 17970177
+      }
+    }, {
+      "indexId" : "bytecodeAnalysis",
+      "partOfTotalIndexingTime" : {
+        "part" : 14301202,
+        "total" : 450906193
+      },
+      "totalNumberOfFiles" : 654,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2413140,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 2413140,
+        "totalCpuTime" : 14301202
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinShortClassNameFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 13184003,
+        "total" : 450906193
+      },
+      "totalNumberOfFiles" : 654,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2413140,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 2413140,
+        "totalCpuTime" : 13184003
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 12785436,
+        "total" : 450906193
+      },
+      "totalNumberOfFiles" : 654,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2413140,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 2413140,
+        "totalCpuTime" : 12785436
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 9795245,
+        "total" : 450906193
+      },
+      "totalNumberOfFiles" : 43,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 313642,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 313642,
+        "totalCpuTime" : 9795245
+      }
+    }, {
+      "indexId" : "KotlinBinaryRootToPackageIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 3603315,
+        "total" : 450906193
+      },
+      "totalNumberOfFiles" : 654,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2413140,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 2413140,
+        "totalCpuTime" : 3603315
+      }
+    }, {
+      "indexId" : "KotlinTopLevelCallableByPackageShortNameIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 2986831,
+        "total" : 450906193
+      },
+      "totalNumberOfFiles" : 654,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2413140,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 2413140,
+        "totalCpuTime" : 2986831
+      }
+    }, {
+      "indexId" : "KotlinTopLevelClassLikeDeclarationByPackageShortNameIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 2064981,
+        "total" : 450906193
+      },
+      "totalNumberOfFiles" : 654,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2413140,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 2413140,
+        "totalCpuTime" : 2064981
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 533496,
+        "total" : 450906193
+      },
+      "totalNumberOfFiles" : 3,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 6949,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 6949,
+        "totalCpuTime" : 533496
+      }
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 245869,
+        "total" : 450906193
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 969,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 969,
+        "totalCpuTime" : 245869
+      }
+    }, {
+      "indexId" : "java.source.module.name",
+      "partOfTotalIndexingTime" : {
+        "part" : 103253,
+        "total" : 450906193
+      },
+      "totalNumberOfFiles" : 3,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 6949,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 6949,
+        "totalCpuTime" : 103253
+      }
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : {
+        "part" : 27702,
+        "total" : 450906193
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 969,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 969,
+        "totalCpuTime" : 27702
+      }
+    } ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 0,
+      "retrievingTime" : 19716
+    },
+    "fileProviderStatistics" : [ {
+      "providerName" : "Library Maven: org.controlsfx:controlsfx:11.1.2 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 687,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 122786222,
+      "contentLoadingVisibleTime" : 20401873,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 29246104
+    }, {
+      "providerName" : "Library Maven: org.kordamp.bootstrapfx:bootstrapfx-core:0.4.0 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 9,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 9202403,
+      "contentLoadingVisibleTime" : 512099,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 4272098
+    }, {
+      "providerName" : "Library Maven: org.openjfx:javafx-swing:17.0.6 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 138659,
+      "contentLoadingVisibleTime" : 60608,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 52736
+    }, {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 0,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 0
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0
+  }
+}

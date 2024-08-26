@@ -1,0 +1,105 @@
+<maven-project-configuration>
+  <resource-processing>
+    <maven-module name="EChat">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>org.example</groupId>
+            <artifactId>EChat</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId />
+        <directory>/home/fayek/Downloads/ChatApp_CodeMaster</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpDcmVhdGVkLUJ5OiBJbnRlbGxpSiBJREVBDQpCdWlsdC1CeTogZmF5ZWsNCkJ1aWxkLUpkazogT3JhY2xlIE9wZW5KREsgMjIuMC4xDQoNCg==</manifest>
+        <classpath>javafx-fxml-18.0.2.jar javafx-fxml-18.0.2.jar jfoenix-9.0.1.jar javafx-controls-18.0.2.jar javafx-controls-18.0.2.jar javafx-graphics-18.0.2.jar javafx-graphics-18.0.2.jar javafx-base-18.0.2.jar javafx-base-18.0.2.jar emoji-java-5.1.1.jar json-20170516.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="EChat" />
+          <entry key="build" value="Build {BuildBase {PluginConfiguration {PluginContainer {}}}}" />
+          <entry key="build.directory" value="/home/fayek/Downloads/ChatApp_CodeMaster/target" />
+          <entry key="build.finalName" value="EChat-1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="/home/fayek/Downloads/ChatApp_CodeMaster/target/classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.pluginManagement" value="PluginContainer {}" />
+          <entry key="build.scriptSourceDirectory" value="/home/fayek/Downloads/ChatApp_CodeMaster/src/main/scripts" />
+          <entry key="build.sourceDirectory" value="/home/fayek/Downloads/ChatApp_CodeMaster/src/main/java" />
+          <entry key="build.testOutputDirectory" value="/home/fayek/Downloads/ChatApp_CodeMaster/target/test-classes" />
+          <entry key="build.testSourceDirectory" value="/home/fayek/Downloads/ChatApp_CodeMaster/src/test/java" />
+          <entry key="groupId" value="org.example" />
+          <entry key="location" value="4 : 109, org.example:EChat:1.0-SNAPSHOT /home/fayek/Downloads/ChatApp_CodeMaster/pom.xml" />
+          <entry key="location.columnNumber" value="109" />
+          <entry key="location.lineNumber" value="4" />
+          <entry key="location.source" value="org.example:EChat:1.0-SNAPSHOT /home/fayek/Downloads/ChatApp_CodeMaster/pom.xml" />
+          <entry key="location.source.location" value="/home/fayek/Downloads/ChatApp_CodeMaster/pom.xml" />
+          <entry key="location.source.modelId" value="org.example:EChat:1.0-SNAPSHOT" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="jar" />
+          <entry key="pomFile" value="/home/fayek/Downloads/ChatApp_CodeMaster/pom.xml" />
+          <entry key="propertiesLocation" value="34 : 17, org.example:EChat:1.0-SNAPSHOT /home/fayek/Downloads/ChatApp_CodeMaster/pom.xml" />
+          <entry key="propertiesLocation.columnNumber" value="17" />
+          <entry key="propertiesLocation.lineNumber" value="34" />
+          <entry key="propertiesLocation.source" value="org.example:EChat:1.0-SNAPSHOT /home/fayek/Downloads/ChatApp_CodeMaster/pom.xml" />
+          <entry key="propertiesLocation.source.location" value="/home/fayek/Downloads/ChatApp_CodeMaster/pom.xml" />
+          <entry key="propertiesLocation.source.modelId" value="org.example:EChat:1.0-SNAPSHOT" />
+          <entry key="reporting.outputDirectory" value="/home/fayek/Downloads/ChatApp_CodeMaster/target/site" />
+          <entry key="reporting.outputDirectoryLocation" value="96 : 22, org.apache.maven:maven-model-builder:3.9.6:super-pom jar:file:/home/fayek/.local/share/JetBrains/Toolbox/apps/intellij-idea-community-edition/plugins/maven/lib/maven3/lib/maven-model-builder-3.9.6.jar!/org/apache/maven/model/pom-4.0.0.xml" />
+          <entry key="reporting.outputDirectoryLocation.columnNumber" value="22" />
+          <entry key="reporting.outputDirectoryLocation.lineNumber" value="96" />
+          <entry key="reporting.outputDirectoryLocation.source" value="org.apache.maven:maven-model-builder:3.9.6:super-pom jar:file:/home/fayek/.local/share/JetBrains/Toolbox/apps/intellij-idea-community-edition/plugins/maven/lib/maven3/lib/maven-model-builder-3.9.6.jar!/org/apache/maven/model/pom-4.0.0.xml" />
+          <entry key="reporting.outputDirectoryLocation.source.location" value="jar:file:/home/fayek/.local/share/JetBrains/Toolbox/apps/intellij-idea-community-edition/plugins/maven/lib/maven3/lib/maven-model-builder-3.9.6.jar!/org/apache/maven/model/pom-4.0.0.xml" />
+          <entry key="reporting.outputDirectoryLocation.source.modelId" value="org.apache.maven:maven-model-builder:3.9.6:super-pom" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="/home/fayek/.jdks/openjdk-22.0.1" />
+          <entry key="java.version" value="Oracle OpenJDK 22.0.1" />
+          <entry key="maven.compiler.source" value="11" />
+          <entry key="maven.compiler.target" value="11" />
+          <entry key="settings.localRepository" value="/home/fayek/.m2/repository" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>/home/fayek/Downloads/ChatApp_CodeMaster/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+          <resource filtered="false">
+            <directory>/home/fayek/Downloads/ChatApp_CodeMaster/target/generated-sources/annotations</directory>
+            <targetPath>/home/fayek/Downloads/ChatApp_CodeMaster/target/classes</targetPath>
+            <includes />
+            <excludes>
+              <pattern value="**/*.aj" />
+              <pattern value="**/*.class" />
+              <pattern value="**/*.clj" />
+              <pattern value="**/*.flex" />
+              <pattern value="**/*.form" />
+              <pattern value="**/*.groovy" />
+              <pattern value="**/*.java" />
+              <pattern value="**/*.kt" />
+              <pattern value="**/*.scala" />
+            </excludes>
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>/home/fayek/Downloads/ChatApp_CodeMaster/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+  </resource-processing>
+  <web-artifact-cfg />
+  <ejb-client-artifact-cfg />
+</maven-project-configuration>

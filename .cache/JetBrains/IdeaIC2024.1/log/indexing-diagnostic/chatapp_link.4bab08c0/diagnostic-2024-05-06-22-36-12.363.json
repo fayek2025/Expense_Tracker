@@ -1,0 +1,65 @@
+{
+  "appInfo" : {
+    "build" : "241.15989.150",
+    "buildDate" : "2024-04-29T11:42:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2024-05-06T16:36:12.363641349Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1207.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "ChatApp_link",
+    "times" : {
+      "scanningReason" : "Merged changes in: \"JDK 11 /home/fayek/.jdks/openjdk-22.0.1\" with changes in: \"JDK 11 /home/fayek/.jdks/openjdk-22.0.1\" with changes in: \"JDK 11 /home/fayek/.jdks/openjdk-22.0.1\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 4,
+      "creatingIteratorsTime" : 1412,
+      "concurrentHandlingWallTimeWithoutPauses" : 2656272041,
+      "concurrentHandlingWallTimeWithPauses" : 2656272041,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 2655661914,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 987770148,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 1666794573,
+      "delayedPushPropertiesStageTime" : 5791,
+      "indexExtensionsTime" : 229433581,
+      "dumbModeStart" : "2024-05-06T16:36:09.705072289Z",
+      "dumbWallTimeWithPauses" : 2657619064,
+      "dumbWallTimeWithoutPauses" : 2657619064,
+      "updatingStart" : "2024-05-06T16:36:09.704819975Z",
+      "updatingEnd" : "2024-05-06T16:36:12.362691353Z",
+      "totalWallTimeWithPauses" : 2657881477,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 2657881477
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 75046,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 43380
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "JDK 11 /home/fayek/.jdks/openjdk-22.0.1",
+      "numberOfScannedFiles" : 75046,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 43380,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 1525669357,
+      "totalOneThreadTimeWithPauses" : 2655661914,
+      "iterationAndScannersApplicationTime" : 987770148,
+      "filesCheckTime" : 1666794573,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 343057237,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 229433581,
+      "roots" : [ ]
+    } ]
+  }
+}

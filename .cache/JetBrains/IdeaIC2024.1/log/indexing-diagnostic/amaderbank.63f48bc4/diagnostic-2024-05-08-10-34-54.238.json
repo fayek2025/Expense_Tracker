@@ -1,0 +1,124 @@
+{
+  "appInfo" : {
+    "build" : "241.15989.150",
+    "buildDate" : "2024-04-29T11:42:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2024-05-08T04:34:54.238594595Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1207.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "AmaderBank",
+    "times" : {
+      "scanningIds" : [ 1 ],
+      "contentLoadingVisibleTime" : 0,
+      "retrievingChangedDuringIndexingFilesTime" : 194305,
+      "separateApplyingIndexesVisibleTime" : 0,
+      "updatingStart" : "2024-05-08T04:34:54.173760877Z",
+      "updatingEnd" : "2024-05-08T04:34:54.23785584Z",
+      "totalWallTimeWithPauses" : 64078532,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "dumbModeStart" : "2024-05-08T04:34:54.173760877Z",
+      "dumbWallTimeWithPauses" : 64078532,
+      "dumbWallTimeWithoutPauses" : 64078532,
+      "totalWallTimeWithoutPauses" : 64078532
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 1,
+      "numberOfNothingToWriteFiles" : 0
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "CSS",
+      "partOfTotalProcessingTime" : {
+        "part" : 4220302,
+        "total" : 4220302
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 484588,
+        "total" : 484588
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 1357,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 1357,
+        "totalCpuTime" : 4220302
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'AmaderBank' (all roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 1357,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 4220302,
+          "total" : 4220302
+        }
+      } ]
+    } ],
+    "totalStatsPerBaseLanguage" : [ ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 594334,
+        "total" : 999264
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1357,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1357,
+        "totalCpuTime" : 594334
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 404930,
+        "total" : 999264
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1357,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1357,
+        "totalCpuTime" : 404930
+      }
+    } ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 0,
+      "retrievingTime" : 194305
+    },
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'AmaderBank' (all roots)",
+      "totalNumberOfIndexedFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 0
+    }, {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 0,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 0
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0
+  }
+}

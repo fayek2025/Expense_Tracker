@@ -1,0 +1,95 @@
+{
+  "appInfo" : {
+    "build" : "241.15989.150",
+    "buildDate" : "2024-04-29T11:42:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2024-05-06T16:06:32.072592905Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1207.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "demo",
+    "times" : {
+      "scanningReason" : "changes in: \"Library Maven: org.controlsfx:controlsfx:11.1.2 (#1 class roots, #0 source roots)\", \"Library Maven: org.kordamp.bootstrapfx:bootstrapfx-core:0.4.0 (#1 class roots, #0 source roots)\", \"Library Maven: org.openjfx:javafx-swing:17.0.6 (#1 class roots, #0 source roots)\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 10,
+      "creatingIteratorsTime" : 2405,
+      "concurrentHandlingWallTimeWithoutPauses" : 102250874,
+      "concurrentHandlingWallTimeWithPauses" : 102250874,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 92642980,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 47671315,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 44750424,
+      "delayedPushPropertiesStageTime" : 7444,
+      "indexExtensionsTime" : 5396393,
+      "dumbModeStart" : "2024-05-06T16:06:31.969095725Z",
+      "dumbWallTimeWithPauses" : 102857476,
+      "dumbWallTimeWithoutPauses" : 102857476,
+      "updatingStart" : "2024-05-06T16:06:31.968510333Z",
+      "updatingEnd" : "2024-05-06T16:06:32.071953201Z",
+      "totalWallTimeWithPauses" : 103443349,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 103443349
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 3,
+      "numberOfScannedFiles" : 728,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 697
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Library Maven: org.controlsfx:controlsfx:11.1.2 (#1 class roots, #0 source roots)",
+      "numberOfScannedFiles" : 718,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 687,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 31986250,
+      "totalOneThreadTimeWithPauses" : 84011090,
+      "iterationAndScannersApplicationTime" : 45365220,
+      "filesCheckTime" : 38526939,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 11575889,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 5330500,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Library Maven: org.kordamp.bootstrapfx:bootstrapfx-core:0.4.0 (#1 class roots, #0 source roots)",
+      "numberOfScannedFiles" : 9,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 9,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 4279327,
+      "totalOneThreadTimeWithPauses" : 7227850,
+      "iterationAndScannersApplicationTime" : 1590769,
+      "filesCheckTime" : 5597687,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 2274505,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 53631,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Library Maven: org.openjfx:javafx-swing:17.0.6 (#1 class roots, #0 source roots)",
+      "numberOfScannedFiles" : 1,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 1,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 190355,
+      "totalOneThreadTimeWithPauses" : 1404040,
+      "iterationAndScannersApplicationTime" : 715326,
+      "filesCheckTime" : 625798,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 65432,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 12262,
+      "roots" : [ ]
+    } ]
+  }
+}

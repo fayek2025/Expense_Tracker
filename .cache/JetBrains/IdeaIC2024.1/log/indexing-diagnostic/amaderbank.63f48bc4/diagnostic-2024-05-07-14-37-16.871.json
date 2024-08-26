@@ -1,0 +1,1540 @@
+{
+  "appInfo" : {
+    "build" : "241.15989.150",
+    "buildDate" : "2024-04-29T11:42:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2024-05-07T08:37:16.871596112Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1207.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "AmaderBank",
+    "times" : {
+      "scanningIds" : [ 9 ],
+      "contentLoadingVisibleTime" : 242876499,
+      "retrievingChangedDuringIndexingFilesTime" : 18925,
+      "separateApplyingIndexesVisibleTime" : 445676642,
+      "updatingStart" : "2024-05-07T08:37:14.555815878Z",
+      "updatingEnd" : "2024-05-07T08:37:16.871156487Z",
+      "totalWallTimeWithPauses" : 2315341601,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "dumbModeStart" : "2024-05-07T08:37:14.555815878Z",
+      "dumbWallTimeWithPauses" : 2315341601,
+      "dumbWallTimeWithoutPauses" : 2315341601,
+      "totalWallTimeWithoutPauses" : 2315341601
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 9685,
+      "numberOfNothingToWriteFiles" : 0
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "CLASS",
+      "partOfTotalProcessingTime" : {
+        "part" : 12026276471,
+        "total" : 16677071512
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1624896192,
+        "total" : 1790863705
+      },
+      "totalNumberOfFiles" : 8856,
+      "totalFilesSize" : 28025586,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 28025586,
+        "totalCpuTime" : 12026276471
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.jetbrains.kotlin:kotlin-stdlib:1.8.10 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 939,
+        "totalFilesSize" : 3997164,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2965227509,
+          "total" : 12026276471
+        }
+      }, {
+        "providerName" : "Library Maven: org.openjfx:javafx-graphics:linux:17.0.6 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 2853,
+        "totalFilesSize" : 7515350,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2951068552,
+          "total" : 12026276471
+        }
+      }, {
+        "providerName" : "Library Maven: org.openjfx:javafx-controls:linux:17.0.6 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1213,
+        "totalFilesSize" : 3848630,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1316911444,
+          "total" : 12026276471
+        }
+      }, {
+        "providerName" : "Library Maven: com.fasterxml.jackson.core:jackson-databind:2.14.2 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 770,
+        "totalFilesSize" : 4198563,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 959219748,
+          "total" : 12026276471
+        }
+      }, {
+        "providerName" : "Library Maven: org.openjfx:javafx-web:linux:17.0.6 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 455,
+        "totalFilesSize" : 1253790,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 780968553,
+          "total" : 12026276471
+        }
+      }, {
+        "providerName" : "Library Maven: org.openjfx:javafx-base:linux:17.0.6 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 663,
+        "totalFilesSize" : 1497913,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 683087382,
+          "total" : 12026276471
+        }
+      }, {
+        "providerName" : "Library Maven: com.github.almasb:fxgl-entity:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 293,
+        "totalFilesSize" : 1176144,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 383959655,
+          "total" : 12026276471
+        }
+      }, {
+        "providerName" : "Library Maven: com.github.almasb:fxgl-core:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 250,
+        "totalFilesSize" : 814363,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 363563477,
+          "total" : 12026276471
+        }
+      }, {
+        "providerName" : "Library Maven: com.github.almasb:fxgl-gameplay:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 136,
+        "totalFilesSize" : 467407,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 357031187,
+          "total" : 12026276471
+        }
+      }, {
+        "providerName" : "Library Maven: org.checkerframework:checker-qual:3.42.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 369,
+        "totalFilesSize" : 267867,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 239398510,
+          "total" : 12026276471
+        }
+      } ]
+    }, {
+      "fileType" : "kotlin_builtins",
+      "partOfTotalProcessingTime" : {
+        "part" : 2088590510,
+        "total" : 16677071512
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 58749833,
+        "total" : 1790863705
+      },
+      "totalNumberOfFiles" : 355,
+      "totalFilesSize" : 401078,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 401078,
+        "totalCpuTime" : 2088590510
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.jetbrains.kotlin:kotlin-stdlib-common:1.8.10 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 348,
+        "totalFilesSize" : 372153,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1879021224,
+          "total" : 2088590510
+        }
+      }, {
+        "providerName" : "Library Maven: org.jetbrains.kotlin:kotlin-stdlib:1.8.10 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 7,
+        "totalFilesSize" : 28925,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 209569286,
+          "total" : 2088590510
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 1018728580,
+        "total" : 16677071512
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 53114331,
+        "total" : 1790863705
+      },
+      "totalNumberOfFiles" : 298,
+      "totalFilesSize" : 666750,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 666750,
+        "totalCpuTime" : 1018728580
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.openjfx:javafx-graphics:linux:17.0.6 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 280,
+        "totalFilesSize" : 593751,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 956251776,
+          "total" : 1018728580
+        }
+      }, {
+        "providerName" : "Library Maven: com.fasterxml.jackson.core:jackson-core:2.14.2 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 12025,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 13884063,
+          "total" : 1018728580
+        }
+      }, {
+        "providerName" : "Library Maven: org.apiguardian:apiguardian-api:1.1.2 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 11357,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 9969040,
+          "total" : 1018728580
+        }
+      }, {
+        "providerName" : "Library Maven: com.fasterxml.jackson.core:jackson-databind:2.14.2 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 12025,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 8648854,
+          "total" : 1018728580
+        }
+      }, {
+        "providerName" : "Library Maven: org.opentest4j:opentest4j:1.3.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 11936,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 7538443,
+          "total" : 1018728580
+        }
+      }, {
+        "providerName" : "Library Maven: com.fasterxml.jackson.core:jackson-annotations:2.14.2 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 12025,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 7359186,
+          "total" : 1018728580
+        }
+      }, {
+        "providerName" : "Library Maven: org.openjfx:javafx-controls:linux:17.0.6 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : 2147,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 6406821,
+          "total" : 1018728580
+        }
+      }, {
+        "providerName" : "Library Maven: org.kordamp.ikonli:ikonli-core:12.3.1 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 10174,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 5731095,
+          "total" : 1018728580
+        }
+      }, {
+        "providerName" : "Library Maven: org.checkerframework:checker-qual:3.42.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 1126,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1904992,
+          "total" : 1018728580
+        }
+      }, {
+        "providerName" : "Library Maven: org.openjfx:javafx-web:linux:17.0.6 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 150,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 599074,
+          "total" : 1018728580
+        }
+      } ]
+    }, {
+      "fileType" : "Properties",
+      "partOfTotalProcessingTime" : {
+        "part" : 765501295,
+        "total" : 16677071512
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 23456398,
+        "total" : 1790863705
+      },
+      "totalNumberOfFiles" : 68,
+      "totalFilesSize" : 310719,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 310719,
+        "totalCpuTime" : 765501295
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.openjfx:javafx-web:linux:17.0.6 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 23,
+        "totalFilesSize" : 135157,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 419452290,
+          "total" : 765501295
+        }
+      }, {
+        "providerName" : "Library Maven: org.openjfx:javafx-media:linux:17.0.6 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 11,
+        "totalFilesSize" : 114159,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 161448065,
+          "total" : 765501295
+        }
+      }, {
+        "providerName" : "Library Maven: org.openjfx:javafx-controls:linux:17.0.6 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 12,
+        "totalFilesSize" : 58559,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 154499559,
+          "total" : 765501295
+        }
+      }, {
+        "providerName" : "Library Maven: org.openjfx:javafx-graphics:linux:17.0.6 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 11,
+        "totalFilesSize" : 2013,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 16717337,
+          "total" : 765501295
+        }
+      }, {
+        "providerName" : "Library Maven: com.github.almasb:fxgl-io:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 61,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1746014,
+          "total" : 765501295
+        }
+      }, {
+        "providerName" : "Library Maven: com.github.almasb:fxgl-entity:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 65,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1493191,
+          "total" : 765501295
+        }
+      }, {
+        "providerName" : "Library Maven: org.jetbrains:annotations:13.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 108,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1366532,
+          "total" : 765501295
+        }
+      }, {
+        "providerName" : "Library Maven: com.github.almasb:fxgl-scene:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 64,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1319003,
+          "total" : 765501295
+        }
+      }, {
+        "providerName" : "Library Maven: com.fasterxml.jackson.core:jackson-databind:2.14.2 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 78,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1235135,
+          "total" : 765501295
+        }
+      }, {
+        "providerName" : "Library Maven: com.github.almasb:fxgl-core:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 63,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1230508,
+          "total" : 765501295
+        }
+      } ]
+    }, {
+      "fileType" : "CSS",
+      "partOfTotalProcessingTime" : {
+        "part" : 404964969,
+        "total" : 16677071512
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 11738726,
+        "total" : 1790863705
+      },
+      "totalNumberOfFiles" : 16,
+      "totalFilesSize" : 442726,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 442726,
+        "totalCpuTime" : 404964969
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.openjfx:javafx-controls:linux:17.0.6 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 15,
+        "totalFilesSize" : 439351,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 402153798,
+          "total" : 404964969
+        }
+      }, {
+        "providerName" : "Library Maven: com.github.almasb:fxgl-gameplay:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 3375,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2811171,
+          "total" : 404964969
+        }
+      } ]
+    }, {
+      "fileType" : "JSON",
+      "partOfTotalProcessingTime" : {
+        "part" : 129682591,
+        "total" : 16677071512
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 6441316,
+        "total" : 1790863705
+      },
+      "totalNumberOfFiles" : 34,
+      "totalFilesSize" : 135252,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 135252,
+        "totalCpuTime" : 129682591
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.openjfx:javafx-graphics:linux:17.0.6 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 16,
+        "totalFilesSize" : 83509,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 63544956,
+          "total" : 129682591
+        }
+      }, {
+        "providerName" : "Library Maven: org.openjfx:javafx-web:linux:17.0.6 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 10,
+        "totalFilesSize" : 39107,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 54490239,
+          "total" : 129682591
+        }
+      }, {
+        "providerName" : "Library Maven: org.openjfx:javafx-controls:linux:17.0.6 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : 10369,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 7097686,
+          "total" : 129682591
+        }
+      }, {
+        "providerName" : "Library Maven: org.openjfx:javafx-media:linux:17.0.6 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 1421,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2502422,
+          "total" : 129682591
+        }
+      }, {
+        "providerName" : "Library Maven: org.openjfx:javafx-base:linux:17.0.6 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 595,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1350993,
+          "total" : 129682591
+        }
+      }, {
+        "providerName" : "Library Maven: org.openjfx:javafx-fxml:linux:17.0.6 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 251,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 696295,
+          "total" : 129682591
+        }
+      } ]
+    }, {
+      "fileType" : "Markdown",
+      "partOfTotalProcessingTime" : {
+        "part" : 95745516,
+        "total" : 16677071512
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 842910,
+        "total" : 1790863705
+      },
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : 29102,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 29102,
+        "totalCpuTime" : 95745516
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.junit.platform:junit-platform-commons:1.10.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 14551,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 48683023,
+          "total" : 95745516
+        }
+      }, {
+        "providerName" : "Library Maven: org.junit.platform:junit-platform-engine:1.10.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 14551,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 47062493,
+          "total" : 95745516
+        }
+      } ]
+    }, {
+      "fileType" : "Manifest",
+      "partOfTotalProcessingTime" : {
+        "part" : 72915512,
+        "total" : 16677071512
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 6449509,
+        "total" : 1790863705
+      },
+      "totalNumberOfFiles" : 30,
+      "totalFilesSize" : 28115,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 28115,
+        "totalCpuTime" : 72915512
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: com.fasterxml.jackson.core:jackson-annotations:2.14.2 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 983,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 24442917,
+          "total" : 72915512
+        }
+      }, {
+        "providerName" : "Library Maven: com.fasterxml.jackson.core:jackson-databind:2.14.2 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 11930,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 11270329,
+          "total" : 72915512
+        }
+      }, {
+        "providerName" : "Library Maven: com.fasterxml.jackson.core:jackson-core:2.14.2 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 3599,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 4284293,
+          "total" : 72915512
+        }
+      }, {
+        "providerName" : "Library Maven: com.github.almasb:fxgl-gameplay:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 81,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 4124883,
+          "total" : 72915512
+        }
+      }, {
+        "providerName" : "Library Maven: com.gluonhq.attach:audio:4.0.17 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 25,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3432095,
+          "total" : 72915512
+        }
+      }, {
+        "providerName" : "Library Maven: org.checkerframework:checker-qual:3.42.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 3872,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3285769,
+          "total" : 72915512
+        }
+      }, {
+        "providerName" : "Library Maven: org.jetbrains.kotlin:kotlin-stdlib:1.8.10 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 222,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2684512,
+          "total" : 72915512
+        }
+      }, {
+        "providerName" : "Library Maven: org.junit.platform:junit-platform-engine:1.10.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 2585,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2536876,
+          "total" : 72915512
+        }
+      }, {
+        "providerName" : "Library Maven: org.junit.platform:junit-platform-commons:1.10.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 1752,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1741334,
+          "total" : 72915512
+        }
+      }, {
+        "providerName" : "Library Maven: org.apiguardian:apiguardian-api:1.1.2 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 862,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1631778,
+          "total" : 72915512
+        }
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 61291952,
+        "total" : 16677071512
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 2631184,
+        "total" : 1790863705
+      },
+      "totalNumberOfFiles" : 11,
+      "totalFilesSize" : 58628,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 58628,
+        "totalCpuTime" : 61291952
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: com.fasterxml.jackson.core:jackson-databind:2.14.2 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 19496,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 18522365,
+          "total" : 61291952
+        }
+      }, {
+        "providerName" : "Library Maven: com.fasterxml.jackson.core:jackson-core:2.14.2 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 7017,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 13710744,
+          "total" : 61291952
+        }
+      }, {
+        "providerName" : "Library Maven: com.fasterxml.jackson.core:jackson-annotations:2.14.2 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 6209,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 5116483,
+          "total" : 61291952
+        }
+      }, {
+        "providerName" : "Library Maven: org.jetbrains:annotations:13.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 4930,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3960245,
+          "total" : 61291952
+        }
+      }, {
+        "providerName" : "Library Maven: com.github.almasb:fxgl-core:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 3787,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3630627,
+          "total" : 61291952
+        }
+      }, {
+        "providerName" : "Library Maven: com.github.almasb:fxgl-gameplay:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 4012,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3483862,
+          "total" : 61291952
+        }
+      }, {
+        "providerName" : "Library Maven: com.github.almasb:fxgl-io:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 3999,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3230337,
+          "total" : 61291952
+        }
+      }, {
+        "providerName" : "Library Maven: com.github.almasb:fxgl-scene:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 3751,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3077470,
+          "total" : 61291952
+        }
+      }, {
+        "providerName" : "Library Maven: com.github.almasb:fxgl-entity:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 3609,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2925736,
+          "total" : 61291952
+        }
+      }, {
+        "providerName" : "Library Maven: org.kordamp.ikonli:ikonli-core:12.3.1 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 782,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1866319,
+          "total" : 61291952
+        }
+      } ]
+    }, {
+      "fileType" : "kotlin_module",
+      "partOfTotalProcessingTime" : {
+        "part" : 11218625,
+        "total" : 16677071512
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1672084,
+        "total" : 1790863705
+      },
+      "totalNumberOfFiles" : 9,
+      "totalFilesSize" : 11135,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 11135,
+        "totalCpuTime" : 11218625
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.jetbrains.kotlin:kotlin-stdlib:1.8.10 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : 8808,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 6720921,
+          "total" : 11218625
+        }
+      }, {
+        "providerName" : "Library Maven: com.github.almasb:fxgl-gameplay:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 184,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1168341,
+          "total" : 11218625
+        }
+      }, {
+        "providerName" : "Library Maven: org.jetbrains.kotlin:kotlin-stdlib-common:1.8.10 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 1628,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1070918,
+          "total" : 11218625
+        }
+      }, {
+        "providerName" : "Library Maven: com.github.almasb:fxgl-io:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 64,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 785352,
+          "total" : 11218625
+        }
+      }, {
+        "providerName" : "Library Maven: com.github.almasb:fxgl-core:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 308,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 657773,
+          "total" : 11218625
+        }
+      }, {
+        "providerName" : "Library Maven: com.github.almasb:fxgl-entity:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 119,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 479089,
+          "total" : 11218625
+        }
+      }, {
+        "providerName" : "Library Maven: com.github.almasb:fxgl-scene:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 24,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 336231,
+          "total" : 11218625
+        }
+      } ]
+    }, {
+      "fileType" : "SPI",
+      "partOfTotalProcessingTime" : {
+        "part" : 2155491,
+        "total" : 16677071512
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 871222,
+        "total" : 1790863705
+      },
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : 327,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 327,
+        "totalCpuTime" : 2155491
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.kordamp.ikonli:ikonli-core:12.3.1 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 244,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1192237,
+          "total" : 2155491
+        }
+      }, {
+        "providerName" : "Library Maven: com.fasterxml.jackson.core:jackson-databind:2.14.2 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 44,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 560259,
+          "total" : 2155491
+        }
+      }, {
+        "providerName" : "Library Maven: com.fasterxml.jackson.core:jackson-core:2.14.2 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 39,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 402995,
+          "total" : 2155491
+        }
+      } ]
+    } ],
+    "totalStatsPerBaseLanguage" : [ {
+      "language" : "TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 1018728580,
+        "total" : 16677071512
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1843978036,
+        "total" : 1790863705
+      },
+      "totalNumberOfFiles" : 298,
+      "totalFilesSize" : 666750,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 666750,
+        "totalCpuTime" : 1018728580
+      }
+    }, {
+      "language" : "Properties",
+      "partOfTotalProcessingTime" : {
+        "part" : 765501295,
+        "total" : 16677071512
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1814320103,
+        "total" : 1790863705
+      },
+      "totalNumberOfFiles" : 68,
+      "totalFilesSize" : 310719,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 310719,
+        "totalCpuTime" : 765501295
+      }
+    }, {
+      "language" : "JSON",
+      "partOfTotalProcessingTime" : {
+        "part" : 129682591,
+        "total" : 16677071512
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1797305021,
+        "total" : 1790863705
+      },
+      "totalNumberOfFiles" : 34,
+      "totalFilesSize" : 135252,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 135252,
+        "totalCpuTime" : 129682591
+      }
+    }, {
+      "language" : "Markdown",
+      "partOfTotalProcessingTime" : {
+        "part" : 95745516,
+        "total" : 16677071512
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1791706615,
+        "total" : 1790863705
+      },
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : 29102,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 29102,
+        "totalCpuTime" : 95745516
+      }
+    }, {
+      "language" : "Manifest",
+      "partOfTotalProcessingTime" : {
+        "part" : 72915512,
+        "total" : 16677071512
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1797313214,
+        "total" : 1790863705
+      },
+      "totalNumberOfFiles" : 30,
+      "totalFilesSize" : 28115,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 28115,
+        "totalCpuTime" : 72915512
+      }
+    }, {
+      "language" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 61291952,
+        "total" : 16677071512
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1793494889,
+        "total" : 1790863705
+      },
+      "totalNumberOfFiles" : 11,
+      "totalFilesSize" : 58628,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 58628,
+        "totalCpuTime" : 61291952
+      }
+    }, {
+      "language" : "SPI",
+      "partOfTotalProcessingTime" : {
+        "part" : 2155491,
+        "total" : 16677071512
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1791734927,
+        "total" : 1790863705
+      },
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : 327,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 327,
+        "totalCpuTime" : 2155491
+      }
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 6413462648,
+        "total" : 10337816664
+      },
+      "totalNumberOfFiles" : 9294,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 28825113,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 28825113,
+        "totalCpuTime" : 6413462648
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 1061215743,
+        "total" : 10337816664
+      },
+      "totalNumberOfFiles" : 465,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1671619,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1671619,
+        "totalCpuTime" : 1061215743
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 629352910,
+        "total" : 10337816664
+      },
+      "totalNumberOfFiles" : 465,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1671619,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1671619,
+        "totalCpuTime" : 629352910
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 456513493,
+        "total" : 10337816664
+      },
+      "totalNumberOfFiles" : 8856,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 28025586,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 28025586,
+        "totalCpuTime" : 456513493
+      }
+    }, {
+      "indexId" : "KotlinTopLevelCallableByPackageShortNameIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 311799645,
+        "total" : 10337816664
+      },
+      "totalNumberOfFiles" : 9211,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 28426664,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 28426664,
+        "totalCpuTime" : 311799645
+      }
+    }, {
+      "indexId" : "KotlinTopLevelClassLikeDeclarationByPackageShortNameIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 248066820,
+        "total" : 10337816664
+      },
+      "totalNumberOfFiles" : 9211,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 28426664,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 28426664,
+        "totalCpuTime" : 248066820
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinPartialPackageNamesIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 228039882,
+        "total" : 10337816664
+      },
+      "totalNumberOfFiles" : 9211,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 28426664,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 28426664,
+        "totalCpuTime" : 228039882
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinShortClassNameFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 186740818,
+        "total" : 10337816664
+      },
+      "totalNumberOfFiles" : 9211,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 28426664,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 28426664,
+        "totalCpuTime" : 186740818
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 170456124,
+        "total" : 10337816664
+      },
+      "totalNumberOfFiles" : 8856,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 28025586,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 28025586,
+        "totalCpuTime" : 170456124
+      }
+    }, {
+      "indexId" : "bytecodeAnalysis",
+      "partOfTotalIndexingTime" : {
+        "part" : 151602100,
+        "total" : 10337816664
+      },
+      "totalNumberOfFiles" : 8856,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 28025586,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 28025586,
+        "totalCpuTime" : 151602100
+      }
+    }, {
+      "indexId" : "KotlinBinaryRootToPackageIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 138236503,
+        "total" : 10337816664
+      },
+      "totalNumberOfFiles" : 9211,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 28426664,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 28426664,
+        "totalCpuTime" : 138236503
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 137642986,
+        "total" : 10337816664
+      },
+      "totalNumberOfFiles" : 355,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 401078,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 401078,
+        "totalCpuTime" : 137642986
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFilePackageIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 131164402,
+        "total" : 10337816664
+      },
+      "totalNumberOfFiles" : 355,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 401078,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 401078,
+        "totalCpuTime" : 131164402
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 27481119,
+        "total" : 10337816664
+      },
+      "totalNumberOfFiles" : 30,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 28115,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 28115,
+        "totalCpuTime" : 27481119
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinBuiltInsMetadataIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 23432688,
+        "total" : 10337816664
+      },
+      "totalNumberOfFiles" : 355,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 401078,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 401078,
+        "totalCpuTime" : 23432688
+      }
+    }, {
+      "indexId" : "json.file.root.values",
+      "partOfTotalIndexingTime" : {
+        "part" : 9288065,
+        "total" : 10337816664
+      },
+      "totalNumberOfFiles" : 34,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 135252,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 135252,
+        "totalCpuTime" : 9288065
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 4802515,
+        "total" : 10337816664
+      },
+      "totalNumberOfFiles" : 9,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 11135,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 11135,
+        "totalCpuTime" : 4802515
+      }
+    }, {
+      "indexId" : "java.source.module.name",
+      "partOfTotalIndexingTime" : {
+        "part" : 2791234,
+        "total" : 10337816664
+      },
+      "totalNumberOfFiles" : 30,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 28115,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 28115,
+        "totalCpuTime" : 2791234
+      }
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 2696065,
+        "total" : 10337816664
+      },
+      "totalNumberOfFiles" : 11,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 58628,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 58628,
+        "totalCpuTime" : 2696065
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 2152516,
+        "total" : 10337816664
+      },
+      "totalNumberOfFiles" : 9,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 11135,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 11135,
+        "totalCpuTime" : 2152516
+      }
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : {
+        "part" : 878388,
+        "total" : 10337816664
+      },
+      "totalNumberOfFiles" : 11,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 58628,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 58628,
+        "totalCpuTime" : 878388
+      }
+    } ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 0,
+      "retrievingTime" : 18925
+    },
+    "fileProviderStatistics" : [ {
+      "providerName" : "Library Maven: org.openjfx:javafx-graphics:linux:17.0.6 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 3162,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 541115132,
+      "contentLoadingVisibleTime" : 62127038,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 129494914
+    }, {
+      "providerName" : "Library Maven: org.jetbrains.kotlin:kotlin-stdlib:1.8.10 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 950,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 431840757,
+      "contentLoadingVisibleTime" : 31304993,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 61003514
+    }, {
+      "providerName" : "Library Maven: org.openjfx:javafx-controls:linux:17.0.6 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 1250,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 255983555,
+      "contentLoadingVisibleTime" : 27522279,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 57730208
+    }, {
+      "providerName" : "Library Maven: org.jetbrains.kotlin:kotlin-stdlib-common:1.8.10 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 350,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 255074812,
+      "contentLoadingVisibleTime" : 7838777,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 23657137
+    }, {
+      "providerName" : "Library Maven: org.openjfx:javafx-web:linux:17.0.6 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 490,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 170338043,
+      "contentLoadingVisibleTime" : 22396602,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 35855677
+    }, {
+      "providerName" : "Library Maven: com.fasterxml.jackson.core:jackson-databind:2.14.2 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 776,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 135546081,
+      "contentLoadingVisibleTime" : 15027412,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 30414600
+    }, {
+      "providerName" : "Library Maven: org.openjfx:javafx-base:linux:17.0.6 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 666,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 93052328,
+      "contentLoadingVisibleTime" : 17956249,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 18830480
+    }, {
+      "providerName" : "Library Maven: com.github.almasb:fxgl-entity:17.3 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 297,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 52834130,
+      "contentLoadingVisibleTime" : 5174633,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 12533694
+    }, {
+      "providerName" : "Library Maven: com.github.almasb:fxgl-core:17.3 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 254,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 50181826,
+      "contentLoadingVisibleTime" : 4188888,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 10661701
+    }, {
+      "providerName" : "Library Maven: com.github.almasb:fxgl-gameplay:17.3 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 141,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 50145626,
+      "contentLoadingVisibleTime" : 21453999,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 6356603
+    }, {
+      "providerName" : "Library Maven: org.openjfx:javafx-media:linux:17.0.6 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 190,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 42871030,
+      "contentLoadingVisibleTime" : 3669795,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 13716947
+    }, {
+      "providerName" : "Library Maven: org.checkerframework:checker-qual:3.42.0 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 371,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 33171139,
+      "contentLoadingVisibleTime" : 5090247,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 8696423
+    }, {
+      "providerName" : "Library Maven: com.fasterxml.jackson.core:jackson-core:2.14.2 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 167,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 31102645,
+      "contentLoadingVisibleTime" : 2719291,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 10662179
+    }, {
+      "providerName" : "Library Maven: org.junit.platform:junit-platform-engine:1.10.0 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 139,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 23586638,
+      "contentLoadingVisibleTime" : 2664450,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 6000037
+    }, {
+      "providerName" : "Library Maven: com.github.almasb:fxgl-io:17.3 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 67,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 23244390,
+      "contentLoadingVisibleTime" : 2968462,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 3573877
+    }, {
+      "providerName" : "Library Maven: com.fasterxml.jackson.core:jackson-annotations:2.14.2 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 78,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 17996815,
+      "contentLoadingVisibleTime" : 4249002,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 3586836
+    }, {
+      "providerName" : "Library Maven: org.junit.platform:junit-platform-commons:1.10.0 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 48,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 14777459,
+      "contentLoadingVisibleTime" : 1183020,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 2231790
+    }, {
+      "providerName" : "Library Maven: com.github.almasb:fxgl-scene:17.3 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 60,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 10244525,
+      "contentLoadingVisibleTime" : 1063699,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 1911586
+    }, {
+      "providerName" : "Library Maven: org.openjfx:javafx-fxml:linux:17.0.6 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 81,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 8647445,
+      "contentLoadingVisibleTime" : 1320976,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 2848561
+    }, {
+      "providerName" : "Library Maven: org.openjfx:javafx-swing:linux:17.0.6 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 53,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 6525197,
+      "contentLoadingVisibleTime" : 783640,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 1873913
+    }, {
+      "providerName" : "Library Maven: org.jetbrains:annotations:13.0 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 35,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 3567361,
+      "contentLoadingVisibleTime" : 658937,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 739664
+    }, {
+      "providerName" : "Library Maven: org.opentest4j:opentest4j:1.3.0 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 12,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 2217765,
+      "contentLoadingVisibleTime" : 199749,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 887977
+    }, {
+      "providerName" : "Library Maven: org.kordamp.ikonli:ikonli-core:12.3.1 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 15,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 2135148,
+      "contentLoadingVisibleTime" : 213499,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 1095518
+    }, {
+      "providerName" : "Library Maven: org.apiguardian:apiguardian-api:1.1.2 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 5,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 1803561,
+      "contentLoadingVisibleTime" : 55963,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 530125
+    }, {
+      "providerName" : "Library Maven: com.gluonhq.attach:audio:4.0.17 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 5,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 1466413,
+      "contentLoadingVisibleTime" : 415220,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 160708
+    }, {
+      "providerName" : "Library Maven: com.gluonhq.attach:util:4.0.17 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 11,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 1067891,
+      "contentLoadingVisibleTime" : 304551,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 283651
+    }, {
+      "providerName" : "Library Maven: com.gluonhq.attach:lifecycle:4.0.17 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 6,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 616949,
+      "contentLoadingVisibleTime" : 158895,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 180178
+    }, {
+      "providerName" : "Library Maven: com.gluonhq.attach:storage:4.0.17 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 4,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 398743,
+      "contentLoadingVisibleTime" : 90287,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 100733
+    }, {
+      "providerName" : "Library Maven: org.openjfx:javafx-graphics:17.0.6 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 95294,
+      "contentLoadingVisibleTime" : 35927,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 27015
+    }, {
+      "providerName" : "Library Maven: org.openjfx:javafx-base:17.0.6 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 91807,
+      "contentLoadingVisibleTime" : 40019,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 30396
+    }, {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 0,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 0
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0
+  }
+}

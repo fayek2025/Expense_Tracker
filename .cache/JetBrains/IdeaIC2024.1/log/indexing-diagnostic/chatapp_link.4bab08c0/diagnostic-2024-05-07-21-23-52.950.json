@@ -1,0 +1,80 @@
+{
+  "appInfo" : {
+    "build" : "241.15989.150",
+    "buildDate" : "2024-04-29T11:42:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2024-05-07T15:23:52.951011243Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1207.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "ChatApp_link",
+    "times" : {
+      "scanningReason" : "changes in: \"Library Maven: org.openjfx:javafx-fxml:18.0.2 (#1 class roots, #1 source roots)\", \"Library Maven: org.openjfx:javafx-fxml:linux:18.0.2 (#1 class roots, #1 source roots)\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 2,
+      "creatingIteratorsTime" : 2184,
+      "concurrentHandlingWallTimeWithoutPauses" : 19421726,
+      "concurrentHandlingWallTimeWithPauses" : 19421726,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 26729639,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 5807338,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 20323653,
+      "delayedPushPropertiesStageTime" : 7284,
+      "indexExtensionsTime" : 582094,
+      "dumbModeStart" : "2024-05-07T15:23:52.928760264Z",
+      "dumbWallTimeWithPauses" : 20846567,
+      "dumbWallTimeWithoutPauses" : 20846567,
+      "updatingStart" : "2024-05-07T15:23:52.928281022Z",
+      "updatingEnd" : "2024-05-07T15:23:52.949606831Z",
+      "totalWallTimeWithPauses" : 21275984,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 21275984
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 2,
+      "numberOfScannedFiles" : 110,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 28
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Library Maven: org.openjfx:javafx-fxml:18.0.2 (#1 class roots, #1 source roots)",
+      "numberOfScannedFiles" : 29,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 28,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 9162010,
+      "totalOneThreadTimeWithPauses" : 17737242,
+      "iterationAndScannersApplicationTime" : 5388120,
+      "filesCheckTime" : 11801130,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 3725504,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 582094,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Library Maven: org.openjfx:javafx-fxml:linux:18.0.2 (#1 class roots, #1 source roots)",
+      "numberOfScannedFiles" : 81,
+      "numberOfSkippedFiles" : 1,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 6150859,
+      "totalOneThreadTimeWithPauses" : 8992397,
+      "iterationAndScannersApplicationTime" : 419218,
+      "filesCheckTime" : 8522523,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    } ]
+  }
+}

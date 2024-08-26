@@ -1,0 +1,207 @@
+{
+  "appInfo" : {
+    "build" : "241.15989.150",
+    "buildDate" : "2024-04-29T11:42:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2024-05-07T15:23:53.083986935Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1207.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "ChatApp_link",
+    "times" : {
+      "scanningIds" : [ 2 ],
+      "contentLoadingVisibleTime" : 4725374,
+      "retrievingChangedDuringIndexingFilesTime" : 220059,
+      "separateApplyingIndexesVisibleTime" : 16092106,
+      "updatingStart" : "2024-05-07T15:23:52.986814803Z",
+      "updatingEnd" : "2024-05-07T15:23:53.083299287Z",
+      "totalWallTimeWithPauses" : 96483752,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "dumbWallTimeWithPauses" : 96483752,
+      "dumbWallTimeWithoutPauses" : 96483752,
+      "dumbModeStart" : "2024-05-07T15:23:52.986814803Z",
+      "totalWallTimeWithoutPauses" : 96483752
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 28,
+      "numberOfNothingToWriteFiles" : 0
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "JAVA",
+      "partOfTotalProcessingTime" : {
+        "part" : 251169418,
+        "total" : 254019560
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 18974067,
+        "total" : 19087002
+      },
+      "totalNumberOfFiles" : 27,
+      "totalFilesSize" : 336290,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 336290,
+        "totalCpuTime" : 251169418
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.openjfx:javafx-fxml:18.0.2 (#1 class roots, #1 source roots)",
+        "numberOfFiles" : 27,
+        "totalFilesSize" : 336290,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 251169418,
+          "total" : 251169418
+        }
+      } ]
+    }, {
+      "fileType" : "Manifest",
+      "partOfTotalProcessingTime" : {
+        "part" : 2850142,
+        "total" : 254019560
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 112935,
+        "total" : 19087002
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 25,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 25,
+        "totalCpuTime" : 2850142
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.openjfx:javafx-fxml:18.0.2 (#1 class roots, #1 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 25,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2850142,
+          "total" : 2850142
+        }
+      } ]
+    } ],
+    "totalStatsPerBaseLanguage" : [ {
+      "language" : "JAVA",
+      "partOfTotalProcessingTime" : {
+        "part" : 251169418,
+        "total" : 254019560
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 38061069,
+        "total" : 19087002
+      },
+      "totalNumberOfFiles" : 27,
+      "totalFilesSize" : 336290,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 336290,
+        "totalCpuTime" : 251169418
+      }
+    }, {
+      "language" : "Manifest",
+      "partOfTotalProcessingTime" : {
+        "part" : 2850142,
+        "total" : 254019560
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 19199937,
+        "total" : 19087002
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 25,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 25,
+        "totalCpuTime" : 2850142
+      }
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 90203483,
+        "total" : 148082816
+      },
+      "totalNumberOfFiles" : 28,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 336315,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 336315,
+        "totalCpuTime" : 90203483
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 57608737,
+        "total" : 148082816
+      },
+      "totalNumberOfFiles" : 28,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 336315,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 336315,
+        "totalCpuTime" : 57608737
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 219949,
+        "total" : 148082816
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 25,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 25,
+        "totalCpuTime" : 219949
+      }
+    }, {
+      "indexId" : "java.source.module.name",
+      "partOfTotalIndexingTime" : {
+        "part" : 50647,
+        "total" : 148082816
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 25,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 25,
+        "totalCpuTime" : 50647
+      }
+    } ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 0,
+      "retrievingTime" : 220059
+    },
+    "fileProviderStatistics" : [ {
+      "providerName" : "Library Maven: org.openjfx:javafx-fxml:18.0.2 (#1 class roots, #1 source roots)",
+      "totalNumberOfIndexedFiles" : 28,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 62887699,
+      "contentLoadingVisibleTime" : 4725374,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 16092106
+    }, {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 0,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 0
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0
+  }
+}

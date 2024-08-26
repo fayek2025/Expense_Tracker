@@ -1,0 +1,709 @@
+{
+  "appInfo" : {
+    "build" : "241.15989.150",
+    "buildDate" : "2024-04-29T11:42:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2024-05-07T08:36:25.651996857Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1207.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "AmaderBank",
+    "times" : {
+      "scanningIds" : [ 8 ],
+      "contentLoadingVisibleTime" : 19230847,
+      "retrievingChangedDuringIndexingFilesTime" : 27612,
+      "separateApplyingIndexesVisibleTime" : 52459188,
+      "updatingStart" : "2024-05-07T08:36:25.265588028Z",
+      "updatingEnd" : "2024-05-07T08:36:25.651616605Z",
+      "totalWallTimeWithPauses" : 386033806,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "dumbModeStart" : "2024-05-07T08:36:25.265588028Z",
+      "dumbWallTimeWithPauses" : 386033806,
+      "dumbWallTimeWithoutPauses" : 386033806,
+      "totalWallTimeWithoutPauses" : 386033806
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 892,
+      "numberOfNothingToWriteFiles" : 0
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "CLASS",
+      "partOfTotalProcessingTime" : {
+        "part" : 2367173777,
+        "total" : 2576375527
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 134127185,
+        "total" : 138627810
+      },
+      "totalNumberOfFiles" : 861,
+      "totalFilesSize" : 3900761,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 3900761,
+        "totalCpuTime" : 2367173777
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: com.github.almasb:fxgl:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 356,
+        "totalFilesSize" : 1429788,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1543088426,
+          "total" : 2367173777
+        }
+      }, {
+        "providerName" : "Library Maven: org.postgresql:postgresql:42.7.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 484,
+        "totalFilesSize" : 2149744,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 712761592,
+          "total" : 2367173777
+        }
+      }, {
+        "providerName" : "Library Maven: de.jensd:fontawesomefx:8.9 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 21,
+        "totalFilesSize" : 321229,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 111323759,
+          "total" : 2367173777
+        }
+      } ]
+    }, {
+      "fileType" : "Markdown",
+      "partOfTotalProcessingTime" : {
+        "part" : 95974099,
+        "total" : 2576375527
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 446478,
+        "total" : 138627810
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 4531,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 4531,
+        "totalCpuTime" : 95974099
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: com.github.almasb:fxgl:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 4531,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 95974099,
+          "total" : 95974099
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 53797469,
+        "total" : 2576375527
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1828748,
+        "total" : 138627810
+      },
+      "totalNumberOfFiles" : 14,
+      "totalFilesSize" : 33971,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 33971,
+        "totalCpuTime" : 53797469
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: com.github.almasb:fxgl:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 8,
+        "totalFilesSize" : 26705,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 42891065,
+          "total" : 53797469
+        }
+      }, {
+        "providerName" : "Library Maven: org.postgresql:postgresql:42.7.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : 6740,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 10068623,
+          "total" : 53797469
+        }
+      }, {
+        "providerName" : "Library Maven: de.jensd:fontawesomefx:8.9 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 526,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 837781,
+          "total" : 53797469
+        }
+      } ]
+    }, {
+      "fileType" : "kotlin_module",
+      "partOfTotalProcessingTime" : {
+        "part" : 16964114,
+        "total" : 2576375527
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 109575,
+        "total" : 138627810
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 134,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 134,
+        "totalCpuTime" : 16964114
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: com.github.almasb:fxgl:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 134,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 16964114,
+          "total" : 16964114
+        }
+      } ]
+    }, {
+      "fileType" : "CSS",
+      "partOfTotalProcessingTime" : {
+        "part" : 15785807,
+        "total" : 2576375527
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 782236,
+        "total" : 138627810
+      },
+      "totalNumberOfFiles" : 6,
+      "totalFilesSize" : 12531,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 12531,
+        "totalCpuTime" : 15785807
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: com.github.almasb:fxgl:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 11423,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 12477885,
+          "total" : 15785807
+        }
+      }, {
+        "providerName" : "Library Maven: de.jensd:fontawesomefx:8.9 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : 1108,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3307922,
+          "total" : 15785807
+        }
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 15545878,
+        "total" : 2576375527
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 435045,
+        "total" : 138627810
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 15819,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 15819,
+        "totalCpuTime" : 15545878
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: com.github.almasb:fxgl:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 10625,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 10821189,
+          "total" : 15545878
+        }
+      }, {
+        "providerName" : "Library Maven: de.jensd:fontawesomefx:8.9 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 5194,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 4724689,
+          "total" : 15545878
+        }
+      } ]
+    }, {
+      "fileType" : "Manifest",
+      "partOfTotalProcessingTime" : {
+        "part" : 6998601,
+        "total" : 2576375527
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 436377,
+        "total" : 138627810
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 10773,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 10773,
+        "totalCpuTime" : 6998601
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.postgresql:postgresql:42.7.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 10557,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 5302140,
+          "total" : 6998601
+        }
+      }, {
+        "providerName" : "Library Maven: de.jensd:fontawesomefx:8.9 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 135,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 997340,
+          "total" : 6998601
+        }
+      }, {
+        "providerName" : "Library Maven: com.github.almasb:fxgl:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 81,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 699121,
+          "total" : 6998601
+        }
+      } ]
+    }, {
+      "fileType" : "Properties",
+      "partOfTotalProcessingTime" : {
+        "part" : 3454755,
+        "total" : 2576375527
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 350347,
+        "total" : 138627810
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 162,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 162,
+        "totalCpuTime" : 3454755
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: com.github.almasb:fxgl:17.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 58,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1884672,
+          "total" : 3454755
+        }
+      }, {
+        "providerName" : "Library Maven: de.jensd:fontawesomefx:8.9 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 104,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1570083,
+          "total" : 3454755
+        }
+      } ]
+    }, {
+      "fileType" : "SPI",
+      "partOfTotalProcessingTime" : {
+        "part" : 681027,
+        "total" : 2576375527
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 111819,
+        "total" : 138627810
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 22,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 22,
+        "totalCpuTime" : 681027
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.postgresql:postgresql:42.7.3 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 22,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 681027,
+          "total" : 681027
+        }
+      } ]
+    } ],
+    "totalStatsPerBaseLanguage" : [ {
+      "language" : "Markdown",
+      "partOfTotalProcessingTime" : {
+        "part" : 95974099,
+        "total" : 2576375527
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 139074288,
+        "total" : 138627810
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 4531,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 4531,
+        "totalCpuTime" : 95974099
+      }
+    }, {
+      "language" : "TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 53797469,
+        "total" : 2576375527
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 140456558,
+        "total" : 138627810
+      },
+      "totalNumberOfFiles" : 14,
+      "totalFilesSize" : 33971,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 33971,
+        "totalCpuTime" : 53797469
+      }
+    }, {
+      "language" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 15545878,
+        "total" : 2576375527
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 139062855,
+        "total" : 138627810
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 15819,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 15819,
+        "totalCpuTime" : 15545878
+      }
+    }, {
+      "language" : "Manifest",
+      "partOfTotalProcessingTime" : {
+        "part" : 6998601,
+        "total" : 2576375527
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 139064187,
+        "total" : 138627810
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 10773,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 10773,
+        "totalCpuTime" : 6998601
+      }
+    }, {
+      "language" : "Properties",
+      "partOfTotalProcessingTime" : {
+        "part" : 3454755,
+        "total" : 2576375527
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 138978157,
+        "total" : 138627810
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 162,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 162,
+        "totalCpuTime" : 3454755
+      }
+    }, {
+      "language" : "SPI",
+      "partOfTotalProcessingTime" : {
+        "part" : 681027,
+        "total" : 2576375527
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 138739629,
+        "total" : 138627810
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 22,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 22,
+        "totalCpuTime" : 681027
+      }
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 1479022039,
+        "total" : 1892778764
+      },
+      "totalNumberOfFiles" : 867,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 3921273,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 3921273,
+        "totalCpuTime" : 1479022039
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 127665890,
+        "total" : 1892778764
+      },
+      "totalNumberOfFiles" : 861,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 3900761,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 3900761,
+        "totalCpuTime" : 127665890
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 79253872,
+        "total" : 1892778764
+      },
+      "totalNumberOfFiles" : 861,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 3900761,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 3900761,
+        "totalCpuTime" : 79253872
+      }
+    }, {
+      "indexId" : "bytecodeAnalysis",
+      "partOfTotalIndexingTime" : {
+        "part" : 77165598,
+        "total" : 1892778764
+      },
+      "totalNumberOfFiles" : 861,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 3900761,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 3900761,
+        "totalCpuTime" : 77165598
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 41847007,
+        "total" : 1892778764
+      },
+      "totalNumberOfFiles" : 30,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 77809,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 77809,
+        "totalCpuTime" : 41847007
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 21943220,
+        "total" : 1892778764
+      },
+      "totalNumberOfFiles" : 30,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 77809,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 77809,
+        "totalCpuTime" : 21943220
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 16006309,
+        "total" : 1892778764
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 134,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 134,
+        "totalCpuTime" : 16006309
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinPartialPackageNamesIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 13952343,
+        "total" : 1892778764
+      },
+      "totalNumberOfFiles" : 861,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 3900761,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 3900761,
+        "totalCpuTime" : 13952343
+      }
+    }, {
+      "indexId" : "KotlinTopLevelCallableByPackageShortNameIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 12771516,
+        "total" : 1892778764
+      },
+      "totalNumberOfFiles" : 861,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 3900761,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 3900761,
+        "totalCpuTime" : 12771516
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinShortClassNameFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 9481351,
+        "total" : 1892778764
+      },
+      "totalNumberOfFiles" : 861,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 3900761,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 3900761,
+        "totalCpuTime" : 9481351
+      }
+    }, {
+      "indexId" : "KotlinTopLevelClassLikeDeclarationByPackageShortNameIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 6302155,
+        "total" : 1892778764
+      },
+      "totalNumberOfFiles" : 861,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 3900761,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 3900761,
+        "totalCpuTime" : 6302155
+      }
+    }, {
+      "indexId" : "KotlinBinaryRootToPackageIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 5698875,
+        "total" : 1892778764
+      },
+      "totalNumberOfFiles" : 861,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 3900761,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 3900761,
+        "totalCpuTime" : 5698875
+      }
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 608992,
+        "total" : 1892778764
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 15819,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 15819,
+        "totalCpuTime" : 608992
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 438312,
+        "total" : 1892778764
+      },
+      "totalNumberOfFiles" : 3,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 10773,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 10773,
+        "totalCpuTime" : 438312
+      }
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : {
+        "part" : 242365,
+        "total" : 1892778764
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 15819,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 15819,
+        "totalCpuTime" : 242365
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 230573,
+        "total" : 1892778764
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 134,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 134,
+        "totalCpuTime" : 230573
+      }
+    }, {
+      "indexId" : "java.source.module.name",
+      "partOfTotalIndexingTime" : {
+        "part" : 148347,
+        "total" : 1892778764
+      },
+      "totalNumberOfFiles" : 3,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 10773,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 10773,
+        "totalCpuTime" : 148347
+      }
+    } ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 0,
+      "retrievingTime" : 27612
+    },
+    "fileProviderStatistics" : [ {
+      "providerName" : "Library Maven: com.github.almasb:fxgl:17.3 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 371,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 239269293,
+      "contentLoadingVisibleTime" : 7238056,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 21399578
+    }, {
+      "providerName" : "Library Maven: org.postgresql:postgresql:42.7.3 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 491,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 101103087,
+      "contentLoadingVisibleTime" : 11171940,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 21948299
+    }, {
+      "providerName" : "Library Maven: de.jensd:fontawesomefx:8.9 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 30,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 17029838,
+      "contentLoadingVisibleTime" : 820851,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 9111311
+    }, {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 0,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 0
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0
+  }
+}

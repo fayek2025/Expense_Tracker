@@ -1,0 +1,33 @@
+<project version="4">
+  <component name="ExternalSystemProjectTracker">
+    <option name="projectSettingsTrackerStates">
+      <map>
+        <entry>
+          <key>
+            <Id>
+              <option name="externalProjectPath" value="ChatApp_CodeMaster" />
+              <option name="systemId" value="MAVEN" />
+            </Id>
+          </key>
+          <value>
+            <Project>
+              <option name="settingsTracker">
+                <State>
+                  <option name="dirty" value="false" />
+                  <option name="settingsFiles">
+                    <map>
+                      <entry key="$PROJECT_DIR$/pom.xml" value="2423442180" />
+                    </map>
+                  </option>
+                </State>
+              </option>
+            </Project>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="ProjectDependenciesModelState">
+    <option name="PROJECT_STATE" value="[{&quot;type&quot;:&quot;maven&quot;,&quot;namespace&quot;:&quot;org.openjfx&quot;,&quot;name&quot;:&quot;javafx-fxml&quot;,&quot;version&quot;:{&quot;value&quot;:&quot;18.0.2&quot;,&quot;releaseDate&quot;:null},&quot;qualifiers&quot;:null,&quot;subpath&quot;:null,&quot;releaseDate&quot;:null,&quot;coordinates&quot;:&quot;maven:org.openjfx:javafx-fxml:18.0.2:null:null&quot;,&quot;humanReadableCoordinates&quot;:&quot;maven:org.openjfx:javafx-fxml:18.0.2&quot;,&quot;searchCoordinates&quot;:&quot;org.openjfx:javafx-fxml:18.0.2&quot;,&quot;searchKey&quot;:&quot;d034982ae88788143223bd3d68b92024ebadf505f58082c9fd34cecdb61f45c0&quot;},{&quot;type&quot;:&quot;maven&quot;,&quot;namespace&quot;:&quot;com.jfoenix&quot;,&quot;name&quot;:&quot;jfoenix&quot;,&quot;version&quot;:{&quot;value&quot;:&quot;9.0.1&quot;,&quot;releaseDate&quot;:null},&quot;qualifiers&quot;:null,&quot;subpath&quot;:null,&quot;releaseDate&quot;:null,&quot;coordinates&quot;:&quot;maven:com.jfoenix:jfoenix:9.0.1:null:null&quot;,&quot;humanReadableCoordinates&quot;:&quot;maven:com.jfoenix:jfoenix:9.0.1&quot;,&quot;searchCoordinates&quot;:&quot;com.jfoenix:jfoenix:9.0.1&quot;,&quot;searchKey&quot;:&quot;04f014f17ff0a5e6b045dbcc1fed07a0cd26a83fcefd3763e4c84801bbc6b88f&quot;},{&quot;type&quot;:&quot;maven&quot;,&quot;namespace&quot;:&quot;org.openjfx&quot;,&quot;name&quot;:&quot;javafx-controls&quot;,&quot;version&quot;:{&quot;value&quot;:&quot;18.0.2&quot;,&quot;releaseDate&quot;:null},&quot;qualifiers&quot;:null,&quot;subpath&quot;:null,&quot;releaseDate&quot;:null,&quot;coordinates&quot;:&quot;maven:org.openjfx:javafx-controls:18.0.2:null:null&quot;,&quot;humanReadableCoordinates&quot;:&quot;maven:org.openjfx:javafx-controls:18.0.2&quot;,&quot;searchCoordinates&quot;:&quot;org.openjfx:javafx-controls:18.0.2&quot;,&quot;searchKey&quot;:&quot;8660a83b7876c1566063355f239dfc6b54eee30fc0707356abe8ef54e7592e37&quot;},{&quot;type&quot;:&quot;maven&quot;,&quot;namespace&quot;:&quot;org.openjfx&quot;,&quot;name&quot;:&quot;javafx-graphics&quot;,&quot;version&quot;:{&quot;value&quot;:&quot;18.0.2&quot;,&quot;releaseDate&quot;:null},&quot;qualifiers&quot;:null,&quot;subpath&quot;:null,&quot;releaseDate&quot;:null,&quot;coordinates&quot;:&quot;maven:org.openjfx:javafx-graphics:18.0.2:null:null&quot;,&quot;humanReadableCoordinates&quot;:&quot;maven:org.openjfx:javafx-graphics:18.0.2&quot;,&quot;searchCoordinates&quot;:&quot;org.openjfx:javafx-graphics:18.0.2&quot;,&quot;searchKey&quot;:&quot;50c114b00d5636ebfe63d77a71cc904ab544a4abef4b6bc5a2768500cc4f8f83&quot;},{&quot;type&quot;:&quot;maven&quot;,&quot;namespace&quot;:&quot;org.openjfx&quot;,&quot;name&quot;:&quot;javafx-base&quot;,&quot;version&quot;:{&quot;value&quot;:&quot;18.0.2&quot;,&quot;releaseDate&quot;:null},&quot;qualifiers&quot;:null,&quot;subpath&quot;:null,&quot;releaseDate&quot;:null,&quot;coordinates&quot;:&quot;maven:org.openjfx:javafx-base:18.0.2:null:null&quot;,&quot;humanReadableCoordinates&quot;:&quot;maven:org.openjfx:javafx-base:18.0.2&quot;,&quot;searchCoordinates&quot;:&quot;org.openjfx:javafx-base:18.0.2&quot;,&quot;searchKey&quot;:&quot;1a49c6443bf5af30db570c438aa304cfd47f8c2993100cbe3c749d32a986e973&quot;},{&quot;type&quot;:&quot;maven&quot;,&quot;namespace&quot;:&quot;com.vdurmont&quot;,&quot;name&quot;:&quot;emoji-java&quot;,&quot;version&quot;:{&quot;value&quot;:&quot;5.1.1&quot;,&quot;releaseDate&quot;:null},&quot;qualifiers&quot;:null,&quot;subpath&quot;:null,&quot;releaseDate&quot;:null,&quot;coordinates&quot;:&quot;maven:com.vdurmont:emoji-java:5.1.1:null:null&quot;,&quot;humanReadableCoordinates&quot;:&quot;maven:com.vdurmont:emoji-java:5.1.1&quot;,&quot;searchCoordinates&quot;:&quot;com.vdurmont:emoji-java:5.1.1&quot;,&quot;searchKey&quot;:&quot;94ef12be0275c1f8159a32aef4f4f75b94980641be4523e9350efd917be41dfd&quot;},{&quot;type&quot;:&quot;maven&quot;,&quot;namespace&quot;:&quot;org.json&quot;,&quot;name&quot;:&quot;json&quot;,&quot;version&quot;:{&quot;value&quot;:&quot;20170516&quot;,&quot;releaseDate&quot;:null},&quot;qualifiers&quot;:null,&quot;subpath&quot;:null,&quot;releaseDate&quot;:null,&quot;coordinates&quot;:&quot;maven:org.json:json:20170516:null:null&quot;,&quot;humanReadableCoordinates&quot;:&quot;maven:org.json:json:20170516&quot;,&quot;searchCoordinates&quot;:&quot;org.json:json:20170516&quot;,&quot;searchKey&quot;:&quot;8b0341a9e9278aa5127333cd446d03db474c54b3057b33dd5b68883e96bd8550&quot;}]" />
+  </component>
+</project>

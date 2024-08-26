@@ -1,0 +1,65 @@
+{
+  "appInfo" : {
+    "build" : "241.15989.150",
+    "buildDate" : "2024-04-29T11:42:00Z[UTC]",
+    "productCode" : "IU",
+    "generated" : "2024-05-07T17:09:13.713096744Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1207.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "ChatApp_CodeMaster",
+    "times" : {
+      "scanningReason" : "changes in: \"JDK 11 /usr/lib/jvm/java-1.11.0-openjdk-amd64\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 2,
+      "creatingIteratorsTime" : 2074,
+      "concurrentHandlingWallTimeWithoutPauses" : 3118931510,
+      "concurrentHandlingWallTimeWithPauses" : 3118931510,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 3118609923,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 1120100610,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 1998282526,
+      "delayedPushPropertiesStageTime" : 8416,
+      "indexExtensionsTime" : 381542426,
+      "dumbModeStart" : "2024-05-07T17:09:10.592227438Z",
+      "dumbWallTimeWithPauses" : 3119650156,
+      "dumbWallTimeWithoutPauses" : 3119650156,
+      "updatingStart" : "2024-05-07T17:09:10.591571801Z",
+      "updatingEnd" : "2024-05-07T17:09:13.711877594Z",
+      "totalWallTimeWithPauses" : 3120298930,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 3120298930
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 31281,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 30950
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "JDK 11 /usr/lib/jvm/java-1.11.0-openjdk-amd64",
+      "numberOfScannedFiles" : 31281,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 30950,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 1766573403,
+      "totalOneThreadTimeWithPauses" : 3118609923,
+      "iterationAndScannersApplicationTime" : 1120100610,
+      "filesCheckTime" : 1998282526,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 396709870,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 381542426,
+      "roots" : [ ]
+    } ]
+  }
+}

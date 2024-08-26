@@ -1,0 +1,5 @@
+<maven-project-configuration>
+  <resource-processing />
+  <web-artifact-cfg />
+  <ejb-client-artifact-cfg />
+</maven-project-configuration>

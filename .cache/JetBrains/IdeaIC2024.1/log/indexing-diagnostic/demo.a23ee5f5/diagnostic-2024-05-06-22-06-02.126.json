@@ -1,0 +1,812 @@
+{
+  "appInfo" : {
+    "build" : "241.15989.150",
+    "buildDate" : "2024-04-29T11:42:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2024-05-06T16:06:02.126985749Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1207.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "demo",
+    "times" : {
+      "scanningIds" : [ 8 ],
+      "contentLoadingVisibleTime" : 12143488,
+      "retrievingChangedDuringIndexingFilesTime" : 17162,
+      "separateApplyingIndexesVisibleTime" : 25358480,
+      "updatingStart" : "2024-05-06T16:06:01.976277423Z",
+      "updatingEnd" : "2024-05-06T16:06:02.126571396Z",
+      "totalWallTimeWithPauses" : 150294575,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "dumbModeStart" : "2024-05-06T16:06:01.976277423Z",
+      "dumbWallTimeWithPauses" : 150294575,
+      "dumbWallTimeWithoutPauses" : 150294575,
+      "totalWallTimeWithoutPauses" : 150294575
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 433,
+      "numberOfNothingToWriteFiles" : 0
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "CLASS",
+      "partOfTotalProcessingTime" : {
+        "part" : 618726456,
+        "total" : 771349821
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 72785704,
+        "total" : 76949011
+      },
+      "totalNumberOfFiles" : 412,
+      "totalFilesSize" : 1389903,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 1389903,
+        "totalCpuTime" : 618726456
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.junit.jupiter:junit-jupiter-api:5.10.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 182,
+        "totalFilesSize" : 427997,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 314182588,
+          "total" : 618726456
+        }
+      }, {
+        "providerName" : "Library Maven: org.junit.jupiter:junit-jupiter-engine:5.10.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 130,
+        "totalFilesSize" : 622455,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 157124032,
+          "total" : 618726456
+        }
+      }, {
+        "providerName" : "Library Maven: com.dlsc.formsfx:formsfx-core:11.6.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 61,
+        "totalFilesSize" : 233798,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 74318002,
+          "total" : 618726456
+        }
+      }, {
+        "providerName" : "Library Maven: org.kordamp.ikonli:ikonli-javafx:12.3.1 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 25,
+        "totalFilesSize" : 64669,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 47615639,
+          "total" : 618726456
+        }
+      }, {
+        "providerName" : "Library Maven: net.synedra:validatorfx:0.4.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 14,
+        "totalFilesSize" : 40984,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 25486195,
+          "total" : 618726456
+        }
+      } ]
+    }, {
+      "fileType" : "Markdown",
+      "partOfTotalProcessingTime" : {
+        "part" : 89050494,
+        "total" : 771349821
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 775197,
+        "total" : 76949011
+      },
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : 29102,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 29102,
+        "totalCpuTime" : 89050494
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.junit.jupiter:junit-jupiter-api:5.10.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 14551,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 61667653,
+          "total" : 89050494
+        }
+      }, {
+        "providerName" : "Library Maven: org.junit.jupiter:junit-jupiter-engine:5.10.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 14551,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 27382841,
+          "total" : 89050494
+        }
+      } ]
+    }, {
+      "fileType" : "kotlin_module",
+      "partOfTotalProcessingTime" : {
+        "part" : 20222107,
+        "total" : 771349821
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 101529,
+        "total" : 76949011
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 59,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 59,
+        "totalCpuTime" : 20222107
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.junit.jupiter:junit-jupiter-api:5.10.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 59,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 20222107,
+          "total" : 20222107
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 16149344,
+        "total" : 771349821
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 408793,
+        "total" : 76949011
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 21531,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 21531,
+        "totalCpuTime" : 16149344
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.kordamp.ikonli:ikonli-javafx:12.3.1 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 10174,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 8779040,
+          "total" : 16149344
+        }
+      }, {
+        "providerName" : "Library Maven: com.dlsc.formsfx:formsfx-core:11.6.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 11357,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 7370304,
+          "total" : 16149344
+        }
+      } ]
+    }, {
+      "fileType" : "Manifest",
+      "partOfTotalProcessingTime" : {
+        "part" : 11035477,
+        "total" : 771349821
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1546796,
+        "total" : 76949011
+      },
+      "totalNumberOfFiles" : 8,
+      "totalFilesSize" : 7626,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 7626,
+        "totalCpuTime" : 11035477
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.junit.jupiter:junit-jupiter-engine:5.10.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 3943,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2736203,
+          "total" : 11035477
+        }
+      }, {
+        "providerName" : "Library Maven: org.junit.jupiter:junit-jupiter-api:5.10.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 2621,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2436451,
+          "total" : 11035477
+        }
+      }, {
+        "providerName" : "Library Maven: com.dlsc.formsfx:formsfx-core:11.6.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 382,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1483596,
+          "total" : 11035477
+        }
+      }, {
+        "providerName" : "Library Maven: org.kordamp.ikonli:ikonli-javafx:12.3.1 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 387,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1253046,
+          "total" : 11035477
+        }
+      }, {
+        "providerName" : "Library Maven: org.openjfx:javafx-media:17.0.6 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 67,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 890841,
+          "total" : 11035477
+        }
+      }, {
+        "providerName" : "Library Maven: org.openjfx:javafx-controls:17.0.6 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 70,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 792740,
+          "total" : 11035477
+        }
+      }, {
+        "providerName" : "Library Maven: net.synedra:validatorfx:0.4.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 91,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 766911,
+          "total" : 11035477
+        }
+      }, {
+        "providerName" : "Library Maven: org.openjfx:javafx-web:17.0.6 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 65,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 675689,
+          "total" : 11035477
+        }
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 9573802,
+        "total" : 771349821
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 526472,
+        "total" : 76949011
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 9663,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 9663,
+        "totalCpuTime" : 9573802
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: com.dlsc.formsfx:formsfx-core:11.6.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 7185,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 6023151,
+          "total" : 9573802
+        }
+      }, {
+        "providerName" : "Library Maven: org.kordamp.ikonli:ikonli-javafx:12.3.1 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 2478,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3550651,
+          "total" : 9573802
+        }
+      } ]
+    }, {
+      "fileType" : "Properties",
+      "partOfTotalProcessingTime" : {
+        "part" : 3071648,
+        "total" : 771349821
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 361324,
+        "total" : 76949011
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 159,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 159,
+        "totalCpuTime" : 3071648
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.kordamp.ikonli:ikonli-javafx:12.3.1 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 95,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1648714,
+          "total" : 3071648
+        }
+      }, {
+        "providerName" : "Library Maven: com.dlsc.formsfx:formsfx-core:11.6.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 64,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1422934,
+          "total" : 3071648
+        }
+      } ]
+    }, {
+      "fileType" : "CSS",
+      "partOfTotalProcessingTime" : {
+        "part" : 2893325,
+        "total" : 771349821
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 176789,
+        "total" : 76949011
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 7018,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 7018,
+        "totalCpuTime" : 2893325
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: com.dlsc.formsfx:formsfx-core:11.6.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 7018,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2893325,
+          "total" : 2893325
+        }
+      } ]
+    }, {
+      "fileType" : "SPI",
+      "partOfTotalProcessingTime" : {
+        "part" : 627168,
+        "total" : 771349821
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 266407,
+        "total" : 76949011
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 42,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 42,
+        "totalCpuTime" : 627168
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Maven: org.junit.jupiter:junit-jupiter-engine:5.10.0 (#1 class roots, #0 source roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 42,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 627168,
+          "total" : 627168
+        }
+      } ]
+    } ],
+    "totalStatsPerBaseLanguage" : [ {
+      "language" : "Markdown",
+      "partOfTotalProcessingTime" : {
+        "part" : 89050494,
+        "total" : 771349821
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 77724208,
+        "total" : 76949011
+      },
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : 29102,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 29102,
+        "totalCpuTime" : 89050494
+      }
+    }, {
+      "language" : "TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 16149344,
+        "total" : 771349821
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 77357804,
+        "total" : 76949011
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 21531,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 21531,
+        "totalCpuTime" : 16149344
+      }
+    }, {
+      "language" : "Manifest",
+      "partOfTotalProcessingTime" : {
+        "part" : 11035477,
+        "total" : 771349821
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 78495807,
+        "total" : 76949011
+      },
+      "totalNumberOfFiles" : 8,
+      "totalFilesSize" : 7626,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 7626,
+        "totalCpuTime" : 11035477
+      }
+    }, {
+      "language" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 9573802,
+        "total" : 771349821
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 77475483,
+        "total" : 76949011
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 9663,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 9663,
+        "totalCpuTime" : 9573802
+      }
+    }, {
+      "language" : "Properties",
+      "partOfTotalProcessingTime" : {
+        "part" : 3071648,
+        "total" : 771349821
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 77310335,
+        "total" : 76949011
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 159,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 159,
+        "totalCpuTime" : 3071648
+      }
+    }, {
+      "language" : "SPI",
+      "partOfTotalProcessingTime" : {
+        "part" : 627168,
+        "total" : 771349821
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 77215418,
+        "total" : 76949011
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 42,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 42,
+        "totalCpuTime" : 627168
+      }
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 310765410,
+        "total" : 459431377
+      },
+      "totalNumberOfFiles" : 420,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1428827,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1428827,
+        "totalCpuTime" : 310765410
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinPartialPackageNamesIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 44504956,
+        "total" : 459431377
+      },
+      "totalNumberOfFiles" : 412,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1389903,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1389903,
+        "totalCpuTime" : 44504956
+      }
+    }, {
+      "indexId" : "KotlinTopLevelCallableByPackageShortNameIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 28635268,
+        "total" : 459431377
+      },
+      "totalNumberOfFiles" : 412,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1389903,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1389903,
+        "totalCpuTime" : 28635268
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 17316360,
+        "total" : 459431377
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 59,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 59,
+        "totalCpuTime" : 17316360
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 12402140,
+        "total" : 459431377
+      },
+      "totalNumberOfFiles" : 412,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1389903,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1389903,
+        "totalCpuTime" : 12402140
+      }
+    }, {
+      "indexId" : "bytecodeAnalysis",
+      "partOfTotalIndexingTime" : {
+        "part" : 11568424,
+        "total" : 459431377
+      },
+      "totalNumberOfFiles" : 412,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1389903,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1389903,
+        "totalCpuTime" : 11568424
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 7510254,
+        "total" : 459431377
+      },
+      "totalNumberOfFiles" : 20,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 75141,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 75141,
+        "totalCpuTime" : 7510254
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 7340144,
+        "total" : 459431377
+      },
+      "totalNumberOfFiles" : 412,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1389903,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1389903,
+        "totalCpuTime" : 7340144
+      }
+    }, {
+      "indexId" : "KotlinTopLevelClassLikeDeclarationByPackageShortNameIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 5770311,
+        "total" : 459431377
+      },
+      "totalNumberOfFiles" : 412,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1389903,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1389903,
+        "totalCpuTime" : 5770311
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinShortClassNameFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 4449696,
+        "total" : 459431377
+      },
+      "totalNumberOfFiles" : 412,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1389903,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1389903,
+        "totalCpuTime" : 4449696
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 4034469,
+        "total" : 459431377
+      },
+      "totalNumberOfFiles" : 20,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 75141,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 75141,
+        "totalCpuTime" : 4034469
+      }
+    }, {
+      "indexId" : "KotlinBinaryRootToPackageIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 2476269,
+        "total" : 459431377
+      },
+      "totalNumberOfFiles" : 412,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1389903,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 1389903,
+        "totalCpuTime" : 2476269
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 914937,
+        "total" : 459431377
+      },
+      "totalNumberOfFiles" : 8,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 7626,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 7626,
+        "totalCpuTime" : 914937
+      }
+    }, {
+      "indexId" : "java.source.module.name",
+      "partOfTotalIndexingTime" : {
+        "part" : 650292,
+        "total" : 459431377
+      },
+      "totalNumberOfFiles" : 8,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 7626,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 7626,
+        "totalCpuTime" : 650292
+      }
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 615187,
+        "total" : 459431377
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 9663,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 9663,
+        "totalCpuTime" : 615187
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 303627,
+        "total" : 459431377
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 59,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 59,
+        "totalCpuTime" : 303627
+      }
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : {
+        "part" : 173633,
+        "total" : 459431377
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 9663,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 9663,
+        "totalCpuTime" : 173633
+      }
+    } ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 0,
+      "retrievingTime" : 17162
+    },
+    "fileProviderStatistics" : [ {
+      "providerName" : "Library Maven: org.junit.jupiter:junit-jupiter-api:5.10.0 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 186,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 62889548,
+      "contentLoadingVisibleTime" : 4534303,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 10316572
+    }, {
+      "providerName" : "Library Maven: org.junit.jupiter:junit-jupiter-engine:5.10.0 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 134,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 29648215,
+      "contentLoadingVisibleTime" : 4133003,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 6614098
+    }, {
+      "providerName" : "Library Maven: com.dlsc.formsfx:formsfx-core:11.6.0 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 66,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 14757225,
+      "contentLoadingVisibleTime" : 1425927,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 4942881
+    }, {
+      "providerName" : "Library Maven: org.kordamp.ikonli:ikonli-javafx:12.3.1 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 29,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 9918037,
+      "contentLoadingVisibleTime" : 1352779,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 2346284
+    }, {
+      "providerName" : "Library Maven: net.synedra:validatorfx:0.4.0 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 15,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 4143060,
+      "contentLoadingVisibleTime" : 573264,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 992502
+    }, {
+      "providerName" : "Library Maven: org.openjfx:javafx-media:17.0.6 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 140585,
+      "contentLoadingVisibleTime" : 64436,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 34952
+    }, {
+      "providerName" : "Library Maven: org.openjfx:javafx-controls:17.0.6 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 125104,
+      "contentLoadingVisibleTime" : 31284,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 64536
+    }, {
+      "providerName" : "Library Maven: org.openjfx:javafx-web:17.0.6 (#1 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 106631,
+      "contentLoadingVisibleTime" : 28492,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 46655
+    }, {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 0,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 0
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0
+  }
+}

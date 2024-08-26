@@ -1,0 +1,558 @@
+{
+  "appInfo" : {
+    "build" : "241.15989.150",
+    "buildDate" : "2024-04-29T11:42:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2024-05-06T16:38:33.6051448Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1207.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "ChatApp_link",
+    "times" : {
+      "scanningIds" : [ 5 ],
+      "contentLoadingVisibleTime" : 834476754,
+      "retrievingChangedDuringIndexingFilesTime" : 22783,
+      "separateApplyingIndexesVisibleTime" : 24837773,
+      "updatingStart" : "2024-05-06T16:38:32.192396856Z",
+      "updatingEnd" : "2024-05-06T16:38:33.604606947Z",
+      "totalWallTimeWithPauses" : 1412203027,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "dumbModeStart" : "2024-05-06T16:38:32.192396856Z",
+      "dumbWallTimeWithPauses" : 1412203027,
+      "dumbWallTimeWithoutPauses" : 1412203027,
+      "totalWallTimeWithoutPauses" : 1412203027
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 43380,
+      "numberOfNothingToWriteFiles" : 43380
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "CLASS",
+      "partOfTotalProcessingTime" : {
+        "part" : 4369568570,
+        "total" : 8302051746
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 2348905979,
+        "total" : 5215902331
+      },
+      "totalNumberOfFiles" : 27730,
+      "totalFilesSize" : 131341459,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 131341459,
+        "totalCpuTime" : 4369568570
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK 11 /home/fayek/.jdks/openjdk-22.0.1",
+        "numberOfFiles" : 27730,
+        "totalFilesSize" : 131341459,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 4369568570,
+          "total" : 4369568570
+        }
+      } ]
+    }, {
+      "fileType" : "JAVA",
+      "partOfTotalProcessingTime" : {
+        "part" : 3895609628,
+        "total" : 8302051746
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 2850544083,
+        "total" : 5215902331
+      },
+      "totalNumberOfFiles" : 15454,
+      "totalFilesSize" : 211742958,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 211742958,
+        "totalCpuTime" : 3895609628
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK 11 /home/fayek/.jdks/openjdk-22.0.1",
+        "numberOfFiles" : 15454,
+        "totalFilesSize" : 211742958,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3895609628,
+          "total" : 3895609628
+        }
+      } ]
+    }, {
+      "fileType" : "Properties",
+      "partOfTotalProcessingTime" : {
+        "part" : 17117827,
+        "total" : 8302051746
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 8944920,
+        "total" : 5215902331
+      },
+      "totalNumberOfFiles" : 109,
+      "totalFilesSize" : 964871,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 964871,
+        "totalCpuTime" : 17117827
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK 11 /home/fayek/.jdks/openjdk-22.0.1",
+        "numberOfFiles" : 109,
+        "totalFilesSize" : 964871,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 17117827,
+          "total" : 17117827
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 8209241,
+        "total" : 8302051746
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 3929311,
+        "total" : 5215902331
+      },
+      "totalNumberOfFiles" : 55,
+      "totalFilesSize" : 277071,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 277071,
+        "totalCpuTime" : 8209241
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK 11 /home/fayek/.jdks/openjdk-22.0.1",
+        "numberOfFiles" : 55,
+        "totalFilesSize" : 277071,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 8209241,
+          "total" : 8209241
+        }
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 3780730,
+        "total" : 8302051746
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 194566,
+        "total" : 5215902331
+      },
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : 55582,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 55582,
+        "totalCpuTime" : 3780730
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK 11 /home/fayek/.jdks/openjdk-22.0.1",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : 55582,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3780730,
+          "total" : 3780730
+        }
+      } ]
+    }, {
+      "fileType" : "JavaScript",
+      "partOfTotalProcessingTime" : {
+        "part" : 2170807,
+        "total" : 8302051746
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1267405,
+        "total" : 5215902331
+      },
+      "totalNumberOfFiles" : 7,
+      "totalFilesSize" : 529312,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 529312,
+        "totalCpuTime" : 2170807
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK 11 /home/fayek/.jdks/openjdk-22.0.1",
+        "numberOfFiles" : 7,
+        "totalFilesSize" : 529312,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2170807,
+          "total" : 2170807
+        }
+      } ]
+    }, {
+      "fileType" : "Shell Script",
+      "partOfTotalProcessingTime" : {
+        "part" : 1380439,
+        "total" : 8302051746
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 362173,
+        "total" : 5215902331
+      },
+      "totalNumberOfFiles" : 7,
+      "totalFilesSize" : 6552,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 6552,
+        "totalCpuTime" : 1380439
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK 11 /home/fayek/.jdks/openjdk-22.0.1",
+        "numberOfFiles" : 7,
+        "totalFilesSize" : 6552,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1380439,
+          "total" : 1380439
+        }
+      } ]
+    }, {
+      "fileType" : "CSS",
+      "partOfTotalProcessingTime" : {
+        "part" : 1312061,
+        "total" : 8302051746
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 315574,
+        "total" : 5215902331
+      },
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : 40372,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 40372,
+        "totalCpuTime" : 1312061
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK 11 /home/fayek/.jdks/openjdk-22.0.1",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : 40372,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1312061,
+          "total" : 1312061
+        }
+      } ]
+    }, {
+      "fileType" : "Markdown",
+      "partOfTotalProcessingTime" : {
+        "part" : 1011614,
+        "total" : 8302051746
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 598086,
+        "total" : 5215902331
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 4806,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 4806,
+        "totalCpuTime" : 1011614
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK 11 /home/fayek/.jdks/openjdk-22.0.1",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 4806,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1011614,
+          "total" : 1011614
+        }
+      } ]
+    }, {
+      "fileType" : "SVG",
+      "partOfTotalProcessingTime" : {
+        "part" : 884424,
+        "total" : 8302051746
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 320775,
+        "total" : 5215902331
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 5481,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 5481,
+        "totalCpuTime" : 884424
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK 11 /home/fayek/.jdks/openjdk-22.0.1",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : 5481,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 884424,
+          "total" : 884424
+        }
+      } ]
+    }, {
+      "fileType" : "DTD",
+      "partOfTotalProcessingTime" : {
+        "part" : 610850,
+        "total" : 8302051746
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 394012,
+        "total" : 5215902331
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 7663,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 7663,
+        "totalCpuTime" : 610850
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK 11 /home/fayek/.jdks/openjdk-22.0.1",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : 7663,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 610850,
+          "total" : 610850
+        }
+      } ]
+    }, {
+      "fileType" : "SPI",
+      "partOfTotalProcessingTime" : {
+        "part" : 215757,
+        "total" : 8302051746
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 40136,
+        "total" : 5215902331
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 41,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 41,
+        "totalCpuTime" : 215757
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK 11 /home/fayek/.jdks/openjdk-22.0.1",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 41,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 215757,
+          "total" : 215757
+        }
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalProcessingTime" : {
+        "part" : 179798,
+        "total" : 8302051746
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 85311,
+        "total" : 5215902331
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 25693,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 25693,
+        "totalCpuTime" : 179798
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK 11 /home/fayek/.jdks/openjdk-22.0.1",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 25693,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 179798,
+          "total" : 179798
+        }
+      } ]
+    } ],
+    "totalStatsPerBaseLanguage" : [ {
+      "language" : "JAVA",
+      "partOfTotalProcessingTime" : {
+        "part" : 3895609628,
+        "total" : 8302051746
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 8066446414,
+        "total" : 5215902331
+      },
+      "totalNumberOfFiles" : 15454,
+      "totalFilesSize" : 211742958,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 211742958,
+        "totalCpuTime" : 3895609628
+      }
+    }, {
+      "language" : "Properties",
+      "partOfTotalProcessingTime" : {
+        "part" : 17117827,
+        "total" : 8302051746
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5224847251,
+        "total" : 5215902331
+      },
+      "totalNumberOfFiles" : 109,
+      "totalFilesSize" : 964871,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 964871,
+        "totalCpuTime" : 17117827
+      }
+    }, {
+      "language" : "TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 8209241,
+        "total" : 8302051746
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5219831642,
+        "total" : 5215902331
+      },
+      "totalNumberOfFiles" : 55,
+      "totalFilesSize" : 277071,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 277071,
+        "totalCpuTime" : 8209241
+      }
+    }, {
+      "language" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 5276004,
+        "total" : 8302051746
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5216096897,
+        "total" : 5215902331
+      },
+      "totalNumberOfFiles" : 10,
+      "totalFilesSize" : 68726,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 68726,
+        "totalCpuTime" : 5276004
+      }
+    }, {
+      "language" : "Shell Script",
+      "partOfTotalProcessingTime" : {
+        "part" : 1380439,
+        "total" : 8302051746
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5216264504,
+        "total" : 5215902331
+      },
+      "totalNumberOfFiles" : 7,
+      "totalFilesSize" : 6552,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 6552,
+        "totalCpuTime" : 1380439
+      }
+    }, {
+      "language" : "Markdown",
+      "partOfTotalProcessingTime" : {
+        "part" : 1011614,
+        "total" : 8302051746
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5216500417,
+        "total" : 5215902331
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 4806,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 4806,
+        "totalCpuTime" : 1011614
+      }
+    }, {
+      "language" : "SVG",
+      "partOfTotalProcessingTime" : {
+        "part" : 884424,
+        "total" : 8302051746
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5216223106,
+        "total" : 5215902331
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 5481,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 5481,
+        "totalCpuTime" : 884424
+      }
+    }, {
+      "language" : "DTD",
+      "partOfTotalProcessingTime" : {
+        "part" : 610850,
+        "total" : 8302051746
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5216296343,
+        "total" : 5215902331
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 7663,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 7663,
+        "totalCpuTime" : 610850
+      }
+    }, {
+      "language" : "SPI",
+      "partOfTotalProcessingTime" : {
+        "part" : 215757,
+        "total" : 8302051746
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5215942467,
+        "total" : 5215902331
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 41,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 41,
+        "totalCpuTime" : 215757
+      }
+    }, {
+      "language" : "textmate",
+      "partOfTotalProcessingTime" : {
+        "part" : 179798,
+        "total" : 8302051746
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5215987642,
+        "total" : 5215902331
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 25693,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 25693,
+        "totalCpuTime" : 179798
+      }
+    } ],
+    "totalStatsPerIndexer" : [ ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 0,
+      "retrievingTime" : 22783
+    },
+    "fileProviderStatistics" : [ {
+      "providerName" : "JDK 11 /home/fayek/.jdks/openjdk-22.0.1",
+      "totalNumberOfIndexedFiles" : 43380,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 43380,
+      "totalIndexingVisibleTime" : 1328220652,
+      "contentLoadingVisibleTime" : 834476754,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 24837773
+    }, {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 0,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 0
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0
+  }
+}

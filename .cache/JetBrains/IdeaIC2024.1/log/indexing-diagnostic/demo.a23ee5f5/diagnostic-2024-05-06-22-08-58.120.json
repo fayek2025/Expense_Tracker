@@ -1,0 +1,65 @@
+{
+  "appInfo" : {
+    "build" : "241.15989.150",
+    "buildDate" : "2024-04-29T11:42:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2024-05-06T16:08:58.120934128Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1207.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "demo",
+    "times" : {
+      "scanningReason" : "changes in: \"Library Maven: eu.hansolo:tilesfx:11.48 (#1 class roots, #0 source roots)\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 12,
+      "creatingIteratorsTime" : 2053,
+      "concurrentHandlingWallTimeWithoutPauses" : 40740913,
+      "concurrentHandlingWallTimeWithPauses" : 40740913,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 39633298,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 9156977,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 30327402,
+      "delayedPushPropertiesStageTime" : 5300,
+      "indexExtensionsTime" : 3364779,
+      "dumbModeStart" : "2024-05-06T16:08:58.079163145Z",
+      "dumbWallTimeWithPauses" : 41256970,
+      "dumbWallTimeWithoutPauses" : 41256970,
+      "updatingStart" : "2024-05-06T16:08:58.078923496Z",
+      "updatingEnd" : "2024-05-06T16:08:58.120420115Z",
+      "totalWallTimeWithPauses" : 41512920,
+      "wallTimeOnPause" : 862,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 41512058
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 794,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 503
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Library Maven: eu.hansolo:tilesfx:11.48 (#1 class roots, #0 source roots)",
+      "numberOfScannedFiles" : 794,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 503,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 27151426,
+      "totalOneThreadTimeWithPauses" : 39633298,
+      "iterationAndScannersApplicationTime" : 9156977,
+      "filesCheckTime" : 30327402,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 9239318,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 3364779,
+      "roots" : [ ]
+    } ]
+  }
+}

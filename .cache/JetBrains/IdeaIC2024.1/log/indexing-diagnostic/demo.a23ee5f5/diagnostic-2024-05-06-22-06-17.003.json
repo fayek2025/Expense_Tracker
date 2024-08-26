@@ -1,0 +1,80 @@
+{
+  "appInfo" : {
+    "build" : "241.15989.150",
+    "buildDate" : "2024-04-29T11:42:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2024-05-06T16:06:17.003682076Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1207.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "demo",
+    "times" : {
+      "scanningReason" : "changes in: \"Library Maven: com.github.almasb:fxgl:11.17 (#1 class roots, #0 source roots)\", \"Library Maven: org.openjfx:javafx-fxml:17.0.6 (#1 class roots, #0 source roots)\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 9,
+      "creatingIteratorsTime" : 1065407,
+      "concurrentHandlingWallTimeWithoutPauses" : 52869931,
+      "concurrentHandlingWallTimeWithPauses" : 52869931,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 53061648,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 29705357,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 23173171,
+      "delayedPushPropertiesStageTime" : 9428,
+      "indexExtensionsTime" : 2740102,
+      "dumbModeStart" : "2024-05-06T16:06:16.947325581Z",
+      "dumbWallTimeWithPauses" : 55649076,
+      "dumbWallTimeWithoutPauses" : 55649076,
+      "updatingStart" : "2024-05-06T16:06:16.946502886Z",
+      "updatingEnd" : "2024-05-06T16:06:17.002974657Z",
+      "totalWallTimeWithPauses" : 56473334,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 56473334
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 2,
+      "numberOfScannedFiles" : 334,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 323
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Library Maven: com.github.almasb:fxgl:11.17 (#1 class roots, #0 source roots)",
+      "numberOfScannedFiles" : 333,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 322,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 19002979,
+      "totalOneThreadTimeWithPauses" : 51365815,
+      "iterationAndScannersApplicationTime" : 28797954,
+      "filesCheckTime" : 22457866,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 5433954,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 2728441,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Library Maven: org.openjfx:javafx-fxml:17.0.6 (#1 class roots, #0 source roots)",
+      "numberOfScannedFiles" : 1,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 1,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 209601,
+      "totalOneThreadTimeWithPauses" : 1695833,
+      "iterationAndScannersApplicationTime" : 907403,
+      "filesCheckTime" : 715305,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 75711,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 11661,
+      "roots" : [ ]
+    } ]
+  }
+}

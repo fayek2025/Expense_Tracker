@@ -1,0 +1,26 @@
+{
+    "downloadCache": {
+        "path": "/home/fayek/.cache/JetBrains/Toolbox/download",
+        "size": 52899,
+        "lastModifiedAt": "2024-08-26T05:58:12.009Z"
+    },
+    "leftoverIDEDirectories": [
+        {
+            "toolId": "IDEA-U",
+            "displayName": "IntelliJ IDEA Ultimate",
+            "version": "2024.1"
+        },
+        [
+            {
+                "path": "/home/fayek/.cache/JetBrains/IntelliJIdea2024.1",
+                "size": 445144533,
+                "lastModifiedAt": "2024-05-07T17:11:11.807Z"
+            },
+            {
+                "path": "/home/fayek/.config/JetBrains/IntelliJIdea2024.1",
+                "size": 1182368,
+                "lastModifiedAt": "2024-05-07T17:11:11.807Z"
+            }
+        ]
+    ]
+}

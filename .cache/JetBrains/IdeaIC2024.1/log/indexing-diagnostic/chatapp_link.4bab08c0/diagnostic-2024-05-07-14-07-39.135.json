@@ -1,0 +1,65 @@
+{
+  "appInfo" : {
+    "build" : "241.15989.150",
+    "buildDate" : "2024-04-29T11:42:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2024-05-07T08:07:39.135902821Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1207.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "ChatApp_link",
+    "times" : {
+      "scanningReason" : "changes in: \"Library jfoenix-9.0.10.jar (#1 class roots, #0 source roots)\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 3,
+      "creatingIteratorsTime" : 1603,
+      "concurrentHandlingWallTimeWithoutPauses" : 45985515,
+      "concurrentHandlingWallTimeWithPauses" : 45985515,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 44810234,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 625013,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 43595756,
+      "delayedPushPropertiesStageTime" : 7725,
+      "indexExtensionsTime" : 6249216,
+      "dumbModeStart" : "2024-05-07T08:07:39.086826446Z",
+      "dumbWallTimeWithPauses" : 48340959,
+      "dumbWallTimeWithoutPauses" : 48340959,
+      "updatingStart" : "2024-05-07T08:07:39.082229448Z",
+      "updatingEnd" : "2024-05-07T08:07:39.135167405Z",
+      "totalWallTimeWithPauses" : 52936805,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 52936805
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 429,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 411
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Library jfoenix-9.0.10.jar (#1 class roots, #0 source roots)",
+      "numberOfScannedFiles" : 429,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 411,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 35315002,
+      "totalOneThreadTimeWithPauses" : 44810234,
+      "iterationAndScannersApplicationTime" : 625013,
+      "filesCheckTime" : 43595756,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 14152184,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 6249216,
+      "roots" : [ ]
+    } ]
+  }
+}

@@ -1,0 +1,5 @@
+============= 2024-05-06 15:11:48.106154925 UTC
+    0 [info ] args: ["/home/fayek/.local/share/JetBrains/Toolbox/apps/intellij-idea-community-edition/bin/restarter", "36061", "1", "/home/fayek/.local/share/JetBrains/Toolbox/apps/intellij-idea-community-edition/bin/idea.sh"]
+    0 [info ] CWD: Ok("/home/fayek")
+    0 [info ] waiting for 36061
+  400 [info ] exec-ing: ["/home/fayek/.local/share/JetBrains/Toolbox/apps/intellij-idea-community-edition/bin/idea.sh"]

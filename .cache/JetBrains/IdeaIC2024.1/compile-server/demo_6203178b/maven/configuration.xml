@@ -1,0 +1,61 @@
+<maven-project-configuration>
+  <resource-processing>
+    <maven-module name="demo">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.example</groupId>
+            <artifactId>demo</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId />
+        <directory>/home/fayek/IdeaProjects/demo</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpDcmVhdGVkLUJ5OiBJbnRlbGxpSiBJREVBDQpCdWlsdC1CeTogZmF5ZWsNCkJ1aWxkLUpkazogMTEuMC4yMg0KDQo=</manifest>
+        <classpath />
+        <delimiters-pattern>\$\{(.+?)}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="demo" />
+          <entry key="build.directory" value="/home/fayek/IdeaProjects/demo/target" />
+          <entry key="build.finalName" value="demo-1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="/home/fayek/IdeaProjects/demo/target/classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.testOutputDirectory" value="/home/fayek/IdeaProjects/demo/target/test-classes" />
+          <entry key="groupId" value="com.example" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="/usr/lib/jvm/java-1.11.0-openjdk-amd64" />
+          <entry key="java.version" value="11.0.22" />
+          <entry key="junit.version" value="5.10.0" />
+          <entry key="project.build.sourceEncoding" value="UTF-8" />
+          <entry key="settings.localRepository" value="/home/fayek/.m2/repository" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>/home/fayek/IdeaProjects/demo/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>/home/fayek/IdeaProjects/demo/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+  </resource-processing>
+  <web-artifact-cfg />
+  <ejb-client-artifact-cfg />
+</maven-project-configuration>

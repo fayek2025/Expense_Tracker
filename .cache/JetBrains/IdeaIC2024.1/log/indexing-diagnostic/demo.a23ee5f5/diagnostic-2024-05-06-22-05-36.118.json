@@ -1,0 +1,79 @@
+{
+  "appInfo" : {
+    "build" : "241.15989.150",
+    "buildDate" : "2024-04-29T11:42:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2024-05-06T16:05:36.118676825Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1207.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "demo",
+    "times" : {
+      "scanningReason" : "changes in: \"Module 'demo' (all roots)\", \"Library Maven: com.dlsc.formsfx:formsfx-core:11.6.0 (#0 class roots, #0 source roots)\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 7,
+      "creatingIteratorsTime" : 3146,
+      "concurrentHandlingWallTimeWithoutPauses" : 12316937,
+      "concurrentHandlingWallTimeWithPauses" : 12316937,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 5627425,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 399284,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 4985989,
+      "delayedPushPropertiesStageTime" : 11111,
+      "indexExtensionsTime" : 56155,
+      "dumbWallTimeWithPauses" : 0,
+      "dumbWallTimeWithoutPauses" : 0,
+      "updatingStart" : "2024-05-06T16:05:36.104408772Z",
+      "updatingEnd" : "2024-05-06T16:05:36.117998762Z",
+      "totalWallTimeWithPauses" : 13592334,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 13592334
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 2,
+      "numberOfScannedFiles" : 13,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 3
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Module 'demo' (all roots)",
+      "numberOfScannedFiles" : 13,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 3,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 1054416,
+      "totalOneThreadTimeWithPauses" : 5421551,
+      "iterationAndScannersApplicationTime" : 366503,
+      "filesCheckTime" : 4882015,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 56155,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Library Maven: com.dlsc.formsfx:formsfx-core:11.6.0 (#0 class roots, #0 source roots)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "totalOneThreadTimeWithPauses" : 205874,
+      "iterationAndScannersApplicationTime" : 32781,
+      "filesCheckTime" : 103974,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    } ]
+  }
+}

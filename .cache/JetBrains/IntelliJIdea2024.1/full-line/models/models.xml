@@ -1,0 +1,32 @@
+<models version="1">
+  <model>
+    <version>0.1.143-native-llama-bundle</version>
+    <size>68858294</size>
+    <languages>
+      <language>kotlin</language>
+    </languages>
+    <binary>flcc.model</binary>
+    <bpe>flcc.bpe</bpe>
+    <config>flcc.json</config>
+    <native>
+      <archive>full-line-inference.zip</archive>
+      <version>1.0.97</version>
+    </native>
+    <changelog>- Updated LLaMA model for Kotlin trained on split with CG (no finetune)</changelog>
+  </model>
+  <model>
+    <version>0.1.43-native-llama-bundle</version>
+    <size>68857785</size>
+    <languages>
+      <language>java</language>
+    </languages>
+    <binary>flcc.model</binary>
+    <bpe>flcc.bpe</bpe>
+    <config>flcc.json</config>
+    <native>
+      <archive>full-line-inference.zip</archive>
+      <version>1.0.97</version>
+    </native>
+    <changelog>- LLaMA model for Java trained on split with_cg + weights averaging (last 6)</changelog>
+  </model>
+</models>

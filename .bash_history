@@ -1,231 +1,3 @@
-./a.out
-g++ resize.cpp 
-./a.out
-g++ resize.cpp 
-./a.out
-g++ resize.cpp 
-./a.out
-g++ resize.cpp 
-./a.out
-code paints.cpp
-g++ paints.cpp 
-./a.out
-g++ resize.cpp 
-./a.out
-g++ paints.cpp
-./a.out
-code string.cpp
-g++ string.cpp
-./a.out
-g++ string.cpp
-./a.out
-g++ string.cpp
-./a.out
-g++ string.cpp
-./a.out
-g++ string.cpp
-./a.out
-g++ string.cpp
-./a.out
-ls
-cd stl/
-ls 
-cd STL_Codeforces/
-ls
-code good.cpp
-code .
-ls
-cd
-mkdir python
-cd python/
-ls
-code .
-python arithmetic.py 
-code arithmetic.py
-python arithmetic.py 
-sudo apt install python3
-python arithmetic.py 
-arithmetic.py
-python arithmetic.py 
-python3 arithmetic.py 
-code leap.py
-python3 leap.py 
-ls
-cd contest/
-ls
-code whatever.cpp
-google-chrome
-g++ whatever.cpp
-ls
-cd contest/
-g++ whatever.cpp 
-./a,out
-./a.out
-code game.cpp
-g++ game.cpp 
-./a.out
-g++ game.cpp 
-./a.out
-g++ game.cpp 
-./a.out
-ls
-code pink.cpp
-g++ pink.cpp 
-./a.out
-g++ pink.cpp 
-./a.out
-g++ pink.cpp 
-./a.out
-g++ pink.cpp 
-./a.out
-g++ pink.cpp 
-./a.out
-1 2 1000000
-./a.out
-1 2 1000000
-./a.out
-1 2 1000000
-./a.out
-1 2 1000000
-g++ pink.cpp 
-./a.out
-g++ pink.cpp 
-./a.out
-g++ pink.cpp 
-./a.out
-g++ pink.cpp 
-1 3 53641
-g++ pink.cpp 
-./a.out
-g++ pink.cpp 
-./a.out
-g++ pink.cpp 
-./a.out
-g++ pink.cpp 
-./a.out
-g++ pink.cpp 
-./a.out
-g++ pink.cpp 
-./a.out
-g++ pink.cpp 
-./a.out
-g++ pink.cpp 
-./a.out
-g++ pink.cpp 
-./a.out
-g++ pink.cpp 
-./a.out
-g++ pink.cpp 
-./a.out
-g++ pink.cpp 
-./a.out
-g++ pink.cpp 
-./a.out
-google-chrome
-ls
-cd codes/
-ls
-code .
-g++ pink.cpp 
-clear
-gcc height.c
-./a.out
-code area.c
-gcc area.c
-g++ area.c
-./a.out
-g++ area.c
-./a.out
-g++ area.c
-./a.out
-g++ area.c
-./a.out
-g++ area.c
-./a.out
-g++ area.c
-./a.out
-g++ area.c
-./a.out
-g++ area.c
-./a.out
-g++ area.c
-./a.out
-g++ area.c
-./a.out
-g++ area.c
-./a.out
-g++ area.c
-./a.out
-g++ area.c
-code height2.c
-gcc height.c
-./a.out
-gcc height.c
-./a.out
-code string.c
-ls
-clear
-gcc string.c 
-./a.out
-gcc string.c 
-./a.out
-gcc string.c 
-./a.out
-code circle.c
-code very_close.cpp
-code close.c
-gcc close.c 
-./a.out
-gcc close.c 
-./a.out
-gcc close.c 
-./a.out
-code height.c
-gcc height.c 
-./a.out
-gcc height.c 
-./a.out
-gcc height.c 
-./a.out
-gcc height.c 
-./a.out
-gcc height.c 
-./a.out
-cd ..
-ls
-cd demo-repository/
-ls
-cd ..
-cd game/
-ls
-cd ..
-code .
-cd demo-repository/
-code .
-gimp
-cd mini_football/
-ls
-code *.cpp
-sh buid.sh
-sh build.sh
-g++ beauty.cpp 
-./a.exe
-./a.out
-./a.exe
-g++ beauty.cpp 
-./a.exe
-./a.out
-g++ beauty.cpp 
-./a.out
-cd ..
-git clone https://github.com/sheldor944/Carrom.git
-ls
-cd demo-repository/
-ls
-cd mini_football/
-code .
-ls
-cd 
 cd game/
 ls
 code entity.
@@ -1998,3 +1770,231 @@ cd first-react-project/
 code .
 clear
 npm start
+code gitignore
+code .gitignore
+git init
+git remote add origin https://github.com/fayek2025/React-Js.git
+git add .
+git init
+git add .
+git push -u origin main
+echo "# React-Js" >> README.md
+git remote add origin https://github.com/fayek2025/React-Js.git
+npm start
+json-server --watch data/db.json --port 8000
+npx json-server --watch data/db.json --port 8000
+npx json-server --watch data/db.json
+npm install json-server
+json-server data/db.json
+npx json-server data/db.json
+npx json-server data/database.json
+node -v
+npx json-server data/database.json
+npx json-server --watch data/database.json --port 3000
+nvm install 16
+nvm use 16
+node -v
+node -v
+nvm install 16
+nvm use 16
+node -v
+npx json-server --watch data/database.json --port 3000
+[A
+npx json-server --watch data/database.json --port 8000
+npm start
+npx json-server --watch data/database.json --port 8000
+node -v
+nvm use 16
+npx json-server --watch data/database.json --port 8000
+nvm use 16
+npx json-server --watch data/database.json --port 8000
+npm start
+npm install react-router-dom
+npx json-server --watch data/database.json --port 8000
+nvm use 16
+npx json-server --watch data/database.json --port 8000
+npm start
+npx json-server --watch data/database.json --port 8000
+nvm use 16
+npx json-server --watch data/database.json --port 8000
+nvm use 16
+npx json-server --watch data/database.json --port 8000
+npm start
+npm init
+npm i express body-parser cors dotenv helmet morgan mongoose nodemon
+mkdir full-stack
+cd full-stack/
+code .
+code .env
+npm run dev
+nvm use 16
+npm run dev
+node --trace-warnings ...
+npm run dev
+npx degit reduxjs/redux-templates/packages/rtk-app-structure-example my-app
+cd my-app/
+npm start
+code .
+yarn start
+npm run dev
+sudo apt install yarn
+yarn start
+dev
+start
+npm run start
+yarn run start
+run
+npm start
+yarn start
+yarn run start
+npx start
+npm dev
+npm install vite --save-dev
+npx create-react-app client
+cd client
+npm i react-redux @reduxjs/toolkit react-datepicker react-router-dom@6 @mui/material @emotion/react @emotion/styled @mui/icons-material @mui/x-data-grid @nivo/core @nivo/bar @nivo/pie
+npm start
+cd ..
+cd full-stack/
+code .
+cd client/
+code jsconfig.json
+npm start
+tree
+cd src
+tree
+cd ..
+npm start
+lsof -i :3000
+kill -9 31689
+npm start
+google-chrome
+cd client
+npm start
+google-chrome
+cd client/
+npm start
+cd server/
+npm run dev
+nvm use 16
+npm run dev
+npm i @reduxjs/toolkit @testing-library/jest-dom @testing-library/react @testing-library/user-event
+npm i bootstrap react react-dom react-redux react-scripts
+npm i web-vitals
+npm start
+react-scripts start
+npm start
+cd final/
+npm star
+npm start
+npm install
+npm start
+cd server/
+npm run dev
+nvm use 16
+npm run dev
+cd client
+npm start
+cd full-stack/
+code .
+npm run dev
+nvm use 16
+npm run dev
+git init
+nvm use 16
+npm run dev
+cd server/
+npm run dev
+cd client/
+npm start
+cd client/
+npm install
+npm start
+cd server/
+npm install
+code .
+cd server/
+npm run dev
+nvn use 16
+nvm use 16
+npm run dev
+cd client/
+npm start
+npm run dev
+nvm use 16
+npm run dev
+curl http://localhost:5001/general/user/63701cc1f03239b7f700000e
+nvm use 16
+npm run dev
+cd server/
+npm run dev
+cd client/
+npm start
+nvm use 16
+npm run dev
+cd server/
+npm run dev
+cd client
+npm start
+cd server/
+npm run dev
+nvm use 16
+npm run dev
+cd client
+npm start
+cd server/
+npm run dev
+nvm use 16
+npm run dev
+cd client/
+code .
+npm start
+cd server
+npm run dev
+nvm use 16
+npm run dev
+cd client
+npm start
+cd serve
+cd server
+npm run dev
+nvm use 16
+npm run dev
+cd client/
+npm start
+npm run dev
+nvm use 16
+npm run dev
+claer
+clear
+npm run dev
+nvm use 16
+npm run dev
+npm start
+cd server/
+npm run dev
+clear
+nvm use 16
+npm run dev
+cd client
+npm start
+npm run dev
+nvm use 16
+npm run dev
+google-chrome
+npx create-expo-app@lates
+npx create-expo-app@latest
+npx create-expo-app
+nvm use 16
+npx create-expo-app
+npm start
+cd Revenge/
+npm start
+nvm use 20
+nvm install 20
+npx expo start
+cd ..
+npx create-expo-app@latest
+npx create-expo-app
+la
+ls

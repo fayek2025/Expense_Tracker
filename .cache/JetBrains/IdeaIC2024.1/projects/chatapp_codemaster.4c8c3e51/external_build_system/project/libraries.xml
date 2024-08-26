@@ -1,0 +1,134 @@
+<component name="libraryTable">
+  <library name="Maven: com.jfoenix:jfoenix:9.0.1" type="java-imported" __external-system-id="Maven">
+    <properties groupId="com.jfoenix" artifactId="jfoenix" version="9.0.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jfoenix/jfoenix/9.0.1/jfoenix-9.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jfoenix/jfoenix/9.0.1/jfoenix-9.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jfoenix/jfoenix/9.0.1/jfoenix-9.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Maven: com.vdurmont:emoji-java:5.1.1" type="java-imported" __external-system-id="Maven">
+    <properties groupId="com.vdurmont" artifactId="emoji-java" version="5.1.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vdurmont/emoji-java/5.1.1/emoji-java-5.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vdurmont/emoji-java/5.1.1/emoji-java-5.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vdurmont/emoji-java/5.1.1/emoji-java-5.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Maven: org.json:json:20170516" type="java-imported" __external-system-id="Maven">
+    <properties groupId="org.json" artifactId="json" version="20170516" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/json/json/20170516/json-20170516.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/json/json/20170516/json-20170516-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/json/json/20170516/json-20170516-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Maven: org.openjfx:javafx-base:18.0.2" type="java-imported" __external-system-id="Maven">
+    <properties groupId="org.openjfx" artifactId="javafx-base" version="18.0.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-base/18.0.2/javafx-base-18.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-base/18.0.2/javafx-base-18.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-base/18.0.2/javafx-base-18.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Maven: org.openjfx:javafx-base:linux:18.0.2" type="java-imported" __external-system-id="Maven">
+    <properties groupId="org.openjfx" artifactId="javafx-base" version="18.0.2" classifier="linux" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-base/18.0.2/javafx-base-18.0.2-linux.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-base/18.0.2/javafx-base-18.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-base/18.0.2/javafx-base-18.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Maven: org.openjfx:javafx-controls:18.0.2" type="java-imported" __external-system-id="Maven">
+    <properties groupId="org.openjfx" artifactId="javafx-controls" version="18.0.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/18.0.2/javafx-controls-18.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/18.0.2/javafx-controls-18.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/18.0.2/javafx-controls-18.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Maven: org.openjfx:javafx-controls:linux:18.0.2" type="java-imported" __external-system-id="Maven">
+    <properties groupId="org.openjfx" artifactId="javafx-controls" version="18.0.2" classifier="linux" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/18.0.2/javafx-controls-18.0.2-linux.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/18.0.2/javafx-controls-18.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/18.0.2/javafx-controls-18.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Maven: org.openjfx:javafx-fxml:18.0.2" type="java-imported" __external-system-id="Maven">
+    <properties groupId="org.openjfx" artifactId="javafx-fxml" version="18.0.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/18.0.2/javafx-fxml-18.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/18.0.2/javafx-fxml-18.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/18.0.2/javafx-fxml-18.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Maven: org.openjfx:javafx-fxml:linux:18.0.2" type="java-imported" __external-system-id="Maven">
+    <properties groupId="org.openjfx" artifactId="javafx-fxml" version="18.0.2" classifier="linux" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/18.0.2/javafx-fxml-18.0.2-linux.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/18.0.2/javafx-fxml-18.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/18.0.2/javafx-fxml-18.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Maven: org.openjfx:javafx-graphics:18.0.2" type="java-imported" __external-system-id="Maven">
+    <properties groupId="org.openjfx" artifactId="javafx-graphics" version="18.0.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/18.0.2/javafx-graphics-18.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/18.0.2/javafx-graphics-18.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/18.0.2/javafx-graphics-18.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+  <library name="Maven: org.openjfx:javafx-graphics:linux:18.0.2" type="java-imported" __external-system-id="Maven">
+    <properties groupId="org.openjfx" artifactId="javafx-graphics" version="18.0.2" classifier="linux" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/18.0.2/javafx-graphics-18.0.2-linux.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/18.0.2/javafx-graphics-18.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/18.0.2/javafx-graphics-18.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

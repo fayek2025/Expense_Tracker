@@ -1,0 +1,96 @@
+2024-05-07 23:09:24,578 [      6]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-05-07 23:09:24,598 [     26]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /home/fayek/.local/share/JetBrains/idea-IU-241.15989.150/plugins/java/lib/jps-launcher.jar
+2024-05-07 23:09:24,765 [    193]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 147 ms
+2024-05-07 23:09:24,886 [    314]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/fayek/ChatApp_CodeMaster, global options path = /home/fayek/.config/JetBrains/IntelliJIdea2024.1/options
+2024-05-07 23:09:24,974 [    402]   INFO - #o.j.j.m.s.JpsProjectLoader - External project config dir is used: /home/fayek/.cache/JetBrains/IntelliJIdea2024.1/projects/chatapp_codemaster.4c8c3e51/external_build_system/project
+2024-05-07 23:09:24,978 [    406]   INFO - #o.j.j.m.s.JpsProjectLoader - External project config dir is used for modules: /home/fayek/.cache/JetBrains/IntelliJIdea2024.1/projects/chatapp_codemaster.4c8c3e51/external_build_system/modules
+2024-05-07 23:09:25,010 [    438]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 128 ms
+2024-05-07 23:09:25,015 [    443]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 11 libraries
+2024-05-07 23:09:25,100 [    528]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-05-07 23:09:25,100 [    528]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-05-07 23:09:25,100 [    528]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-05-07 23:09:25,101 [    529]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-05-07 23:09:25,102 [    530]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-05-07 23:09:25,103 [    531]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-05-07 23:09:25,103 [    531]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-05-07 23:09:25,103 [    531]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-05-07 23:09:25,256 [    684]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:false parallel compilation:false; dependency graph enabled:false
+2024-05-07 23:09:25,258 [    686]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-05-07 23:09:25,259 [    687]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-05-07 23:09:25,264 [    692]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-05-07 23:09:25,265 [    693]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started 4980aa8b
+2024-05-07 23:09:25,271 [    699]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-05-07 23:09:25,272 [    700]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-05-07 23:09:25,307 [    735]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 12 ms
+2024-05-07 23:09:25,420 [    848]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 21 ms
+2024-05-07 23:09:25,427 [    855]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 29 ms
+2024-05-07 23:09:25,449 [    877]   INFO - #o.j.j.i.j.JavaBuilder - Compiling 9 java files; module: EChat
+2024-05-07 23:09:26,245 [   1673]   INFO - #o.j.j.i.Builder - Dependency analysis found 0 affected files
+2024-05-07 23:09:26,252 [   1680]   INFO - #o.j.j.i.j.JavaBuilder - javac 11.0.22 was used to compile [EChat]
+2024-05-07 23:09:26,267 [   1695]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=1981, regularPageLoads=34, pageLoadsAboveSizeThreshold=0, pageLoadUs=42595, pageDisposalUs=54, capacityInBytes=503316478, disposedBuffers=34 maxRegisteredFiles=25 maxCacheSizeInBytes=11632640totalSizeCachedBytes=0
+2024-05-07 23:09:26,747 [      8]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-05-07 23:09:26,771 [     32]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /home/fayek/.local/share/JetBrains/idea-IU-241.15989.150/plugins/java/lib/jps-launcher.jar
+2024-05-07 23:09:26,937 [    198]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 146 ms
+2024-05-07 23:09:26,970 [    231]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/fayek/ChatApp_CodeMaster, global options path = /home/fayek/.config/JetBrains/IntelliJIdea2024.1/options
+2024-05-07 23:09:27,111 [    372]   INFO - #o.j.j.m.s.JpsProjectLoader - External project config dir is used: /home/fayek/.cache/JetBrains/IntelliJIdea2024.1/projects/chatapp_codemaster.4c8c3e51/external_build_system/project
+2024-05-07 23:09:27,116 [    377]   INFO - #o.j.j.m.s.JpsProjectLoader - External project config dir is used for modules: /home/fayek/.cache/JetBrains/IntelliJIdea2024.1/projects/chatapp_codemaster.4c8c3e51/external_build_system/modules
+2024-05-07 23:09:27,153 [    414]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 189 ms
+2024-05-07 23:09:27,157 [    418]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 11 libraries
+2024-05-07 23:09:27,285 [    546]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-05-07 23:09:27,286 [    547]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-05-07 23:09:27,287 [    548]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-05-07 23:09:27,287 [    548]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-05-07 23:09:27,290 [    551]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-05-07 23:09:27,290 [    551]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-05-07 23:09:27,291 [    552]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-05-07 23:09:27,291 [    552]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-05-07 23:09:27,439 [    700]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 696 ms
+2024-05-07 23:09:54,065 [  27326]   INFO - #o.j.j.c.BuildMain - Build canceled, but no build session is running. Exiting.
+2024-05-07 23:10:34,911 [      7]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-05-07 23:10:34,932 [     28]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /home/fayek/.local/share/JetBrains/idea-IU-241.15989.150/plugins/java/lib/jps-launcher.jar
+2024-05-07 23:10:35,094 [    190]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 144 ms
+2024-05-07 23:10:35,186 [    282]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/fayek/ChatApp_CodeMaster, global options path = /home/fayek/.config/JetBrains/IntelliJIdea2024.1/options
+2024-05-07 23:10:35,268 [    364]   INFO - #o.j.j.m.s.JpsProjectLoader - External project config dir is used: /home/fayek/.cache/JetBrains/IntelliJIdea2024.1/projects/chatapp_codemaster.4c8c3e51/external_build_system/project
+2024-05-07 23:10:35,271 [    367]   INFO - #o.j.j.m.s.JpsProjectLoader - External project config dir is used for modules: /home/fayek/.cache/JetBrains/IntelliJIdea2024.1/projects/chatapp_codemaster.4c8c3e51/external_build_system/modules
+2024-05-07 23:10:35,292 [    388]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 110 ms
+2024-05-07 23:10:35,296 [    392]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 11 libraries
+2024-05-07 23:10:35,375 [    471]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-05-07 23:10:35,375 [    471]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-05-07 23:10:35,376 [    472]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-05-07 23:10:35,376 [    472]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-05-07 23:10:35,377 [    473]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-05-07 23:10:35,378 [    474]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-05-07 23:10:35,378 [    474]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-05-07 23:10:35,378 [    474]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-05-07 23:10:35,512 [    608]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false; dependency graph enabled:false
+2024-05-07 23:10:35,513 [    609]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-05-07 23:10:35,513 [    609]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-05-07 23:10:35,518 [    614]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-05-07 23:10:35,518 [    614]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started b5a39c2b
+2024-05-07 23:10:35,523 [    619]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-05-07 23:10:35,524 [    620]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-05-07 23:10:35,540 [    636]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 1 ms
+2024-05-07 23:10:35,648 [    744]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 20 ms
+2024-05-07 23:10:35,655 [    751]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 28 ms
+2024-05-07 23:10:35,678 [    774]   INFO - #o.j.j.i.j.JavaBuilder - Compiling 9 java files; module: EChat
+2024-05-07 23:10:36,363 [   1459]   INFO - #o.j.j.i.Builder - Dependency analysis found 0 affected files
+2024-05-07 23:10:36,368 [   1464]   INFO - #o.j.j.i.j.JavaBuilder - javac 11.0.22 was used to compile [EChat]
+2024-05-07 23:10:36,378 [   1474]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=377, regularPageLoads=20, pageLoadsAboveSizeThreshold=0, pageLoadUs=35634, pageDisposalUs=27, capacityInBytes=503316478, disposedBuffers=20 maxRegisteredFiles=25 maxCacheSizeInBytes=13729792totalSizeCachedBytes=0
+2024-05-07 23:10:36,515 [      7]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-05-07 23:10:36,535 [     27]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /home/fayek/.local/share/JetBrains/idea-IU-241.15989.150/plugins/java/lib/jps-launcher.jar
+2024-05-07 23:10:36,704 [    196]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 148 ms
+2024-05-07 23:10:36,742 [    234]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/fayek/ChatApp_CodeMaster, global options path = /home/fayek/.config/JetBrains/IntelliJIdea2024.1/options
+2024-05-07 23:10:36,852 [    344]   INFO - #o.j.j.m.s.JpsProjectLoader - External project config dir is used: /home/fayek/.cache/JetBrains/IntelliJIdea2024.1/projects/chatapp_codemaster.4c8c3e51/external_build_system/project
+2024-05-07 23:10:36,855 [    347]   INFO - #o.j.j.m.s.JpsProjectLoader - External project config dir is used for modules: /home/fayek/.cache/JetBrains/IntelliJIdea2024.1/projects/chatapp_codemaster.4c8c3e51/external_build_system/modules
+2024-05-07 23:10:36,882 [    374]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 145 ms
+2024-05-07 23:10:36,886 [    378]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 11 libraries
+2024-05-07 23:10:36,971 [    463]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-05-07 23:10:36,971 [    463]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-05-07 23:10:36,972 [    464]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-05-07 23:10:36,972 [    464]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-05-07 23:10:36,973 [    465]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-05-07 23:10:36,973 [    465]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-05-07 23:10:36,974 [    466]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-05-07 23:10:36,974 [    466]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-05-07 23:10:37,098 [    590]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 587 ms
+2024-05-07 23:11:11,583 [  35075]   INFO - #o.j.j.c.BuildMain - Build canceled, but no build session is running. Exiting.

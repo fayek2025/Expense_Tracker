@@ -1,0 +1,64 @@
+{
+  "appInfo" : {
+    "build" : "241.15989.150",
+    "buildDate" : "2024-04-29T11:42:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2024-05-07T13:32:03.337027194Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1207.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "AmaderBank",
+    "times" : {
+      "scanningReason" : "changes in: \"Module 'AmaderBank' (all roots)\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 2,
+      "creatingIteratorsTime" : 2385,
+      "concurrentHandlingWallTimeWithoutPauses" : 20913757,
+      "concurrentHandlingWallTimeWithPauses" : 20919669,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 19545306,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 944520,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 18465400,
+      "delayedPushPropertiesStageTime" : 7023,
+      "indexExtensionsTime" : 0,
+      "dumbWallTimeWithPauses" : 0,
+      "dumbWallTimeWithoutPauses" : 0,
+      "updatingStart" : "2024-05-07T13:32:03.313406393Z",
+      "updatingEnd" : "2024-05-07T13:32:03.335512236Z",
+      "totalWallTimeWithPauses" : 22105652,
+      "wallTimeOnPause" : 5912,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 22099740
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 43,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 0
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Module 'AmaderBank' (all roots)",
+      "numberOfScannedFiles" : 43,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 16034587,
+      "totalOneThreadTimeWithPauses" : 19545306,
+      "iterationAndScannersApplicationTime" : 944520,
+      "filesCheckTime" : 18465400,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    } ]
+  }
+}

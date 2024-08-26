@@ -1,0 +1,65 @@
+{
+  "appInfo" : {
+    "build" : "241.15989.150",
+    "buildDate" : "2024-04-29T11:42:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2024-05-06T15:44:04.398113654Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1207.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2086666240,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "ChatApp_link",
+    "times" : {
+      "scanningReason" : "changes in: \"Library Maven: com.jfoenix:jfoenix:9.0.1 (#9 class roots, #0 source roots)\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 7,
+      "creatingIteratorsTime" : 2139059,
+      "concurrentHandlingWallTimeWithoutPauses" : 250228344,
+      "concurrentHandlingWallTimeWithPauses" : 250228344,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 239862957,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 13070112,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 226704678,
+      "delayedPushPropertiesStageTime" : 3192312,
+      "indexExtensionsTime" : 30835423,
+      "dumbModeStart" : "2024-05-06T15:44:04.135624247Z",
+      "dumbWallTimeWithPauses" : 261787652,
+      "dumbWallTimeWithoutPauses" : 261517488,
+      "updatingStart" : "2024-05-06T15:44:04.131027553Z",
+      "updatingEnd" : "2024-05-06T15:44:04.397411899Z",
+      "totalWallTimeWithPauses" : 266386901,
+      "wallTimeOnPause" : 270164,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 266116737
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 6568,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 5957
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Library Maven: com.jfoenix:jfoenix:9.0.1 (#9 class roots, #0 source roots)",
+      "numberOfScannedFiles" : 6568,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 5957,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 205768334,
+      "totalOneThreadTimeWithPauses" : 239862957,
+      "iterationAndScannersApplicationTime" : 13070112,
+      "filesCheckTime" : 226704678,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 53601234,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 30835423,
+      "roots" : [ ]
+    } ]
+  }
+}

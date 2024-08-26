@@ -1,0 +1,65 @@
+{
+  "appInfo" : {
+    "build" : "241.15989.150",
+    "buildDate" : "2024-04-29T11:42:00Z[UTC]",
+    "productCode" : "IU",
+    "generated" : "2024-05-07T17:09:08.455266456Z",
+    "os" : "Linux 6.5.0-28-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.10 17.0.10+1-b1207.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "ChatApp_CodeMaster",
+    "times" : {
+      "scanningReason" : "changes in: \"Custom kind roots from entity (sass_functions.scss, sass_color.scss, sass_list.scss, ..., empty)\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 1,
+      "creatingIteratorsTime" : 2133867,
+      "concurrentHandlingWallTimeWithoutPauses" : 9451506,
+      "concurrentHandlingWallTimeWithPauses" : 9451506,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 5216043,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 2327433,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 2793872,
+      "delayedPushPropertiesStageTime" : 3361984,
+      "indexExtensionsTime" : 136589,
+      "dumbModeStart" : "2024-05-07T17:09:08.214823822Z",
+      "dumbWallTimeWithPauses" : 21474375,
+      "dumbWallTimeWithoutPauses" : 21145635,
+      "updatingStart" : "2024-05-07T17:09:08.173627118Z",
+      "updatingEnd" : "2024-05-07T17:09:08.236298197Z",
+      "totalWallTimeWithPauses" : 62656291,
+      "wallTimeOnPause" : 328740,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 62327551
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 8,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 8
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Custom kind roots from entity (sass_functions.scss, sass_color.scss, sass_list.scss, ..., empty)",
+      "numberOfScannedFiles" : 8,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 8,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 2511999,
+      "totalOneThreadTimeWithPauses" : 5216043,
+      "iterationAndScannersApplicationTime" : 2327433,
+      "filesCheckTime" : 2793872,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 136589,
+      "roots" : [ ]
+    } ]
+  }
+}
